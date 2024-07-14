@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/soul_soil", "weight": 26
+      },
+      {
+        "model": "block/soul_soil1", "weight": 7
+      },
+      {
+        "model": "block/soul_soil2", "weight": 25
+      },
+      {
+        "model": "block/soul_soil3", "weight": 24
+      },
+      {
+        "model": "block/soul_soil4", "weight": 24
+      },
+      {
+        "model": "block/soul_soil5", "weight": 1
+      }
+    ]
+  }
+}

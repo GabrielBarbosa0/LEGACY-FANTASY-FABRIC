@@ -1,0 +1,178 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "up": "true"
+      },
+            "apply": [
+			{ "model": "block/sculk_vein", "uvlock": true, "x": 270 },
+			{ "model": "block/sculk_vein1", "uvlock": true, "x": 270 },
+			{ "model": "block/sculk_vein2", "uvlock": true, "x": 270 },
+			{ "model": "block/sculk_vein3", "uvlock": true, "x": 270 },
+			{ "model": "block/sculk_vein4", "uvlock": true, "x": 270 },
+			{ "model": "block/sculk_vein5", "uvlock": true, "x": 270 }]
+        },
+    {
+      "when": {
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false",
+        "down": "false"
+      },
+            "apply": [
+			{ "model": "block/sculk_vein", "uvlock": true, "x": 270 },
+			{ "model": "block/sculk_vein1", "uvlock": true, "x": 270 },
+			{ "model": "block/sculk_vein2", "uvlock": true, "x": 270 },
+			{ "model": "block/sculk_vein3", "uvlock": true, "x": 270 },
+			{ "model": "block/sculk_vein4", "uvlock": true, "x": 270 },
+			{ "model": "block/sculk_vein5", "uvlock": true, "x": 270 }]
+        },
+    {
+      "when": {
+        "north": "true"
+      },
+            "apply": [
+			{ "model": "block/sculk_vein" },
+			{ "model": "block/sculk_vein1" },
+			{ "model": "block/sculk_vein2" },
+			{ "model": "block/sculk_vein3" },
+			{ "model": "block/sculk_vein4" },
+			{ "model": "block/sculk_vein5" }]
+        },
+    {
+      "when": {
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false",
+        "down": "false"
+      },
+            "apply": [
+			{ "model": "block/sculk_vein" },
+			{ "model": "block/sculk_vein1" },
+			{ "model": "block/sculk_vein2" },
+			{ "model": "block/sculk_vein3" },
+			{ "model": "block/sculk_vein4" },
+			{ "model": "block/sculk_vein5" }]
+        },
+    {
+      "when": {
+        "west": "true"
+      },
+            "apply": [
+			{ "model": "block/sculk_vein", "uvlock": true, "y": 270 },
+			{ "model": "block/sculk_vein1", "uvlock": true, "y": 270 },
+			{ "model": "block/sculk_vein2", "uvlock": true, "y": 270 },
+			{ "model": "block/sculk_vein3", "uvlock": true, "y": 270 },
+			{ "model": "block/sculk_vein4", "uvlock": true, "y": 270 },
+			{ "model": "block/sculk_vein5", "uvlock": true, "y": 270 }]
+        },
+    {
+      "when": {
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false",
+        "down": "false"
+      },
+            "apply": [
+			{ "model": "block/sculk_vein", "uvlock": true, "y": 270 },
+			{ "model": "block/sculk_vein1", "uvlock": true, "y": 270 },
+			{ "model": "block/sculk_vein2", "uvlock": true, "y": 270 },
+			{ "model": "block/sculk_vein3", "uvlock": true, "y": 270 },
+			{ "model": "block/sculk_vein4", "uvlock": true, "y": 270 },
+			{ "model": "block/sculk_vein5", "uvlock": true, "y": 270 }]
+        },
+    {
+      "when": {
+        "south": "true"
+      },
+            "apply": [
+			{ "model": "block/sculk_vein", "uvlock": true, "y": 180 },
+			{ "model": "block/sculk_vein1", "uvlock": true, "y": 180 },
+			{ "model": "block/sculk_vein2", "uvlock": true, "y": 180 },
+			{ "model": "block/sculk_vein3", "uvlock": true, "y": 180 },
+			{ "model": "block/sculk_vein4", "uvlock": true, "y": 180 },
+			{ "model": "block/sculk_vein5", "uvlock": true, "y": 180 }]
+        },
+    {
+      "when": {
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false",
+        "down": "false"
+      },
+            "apply": [
+			{ "model": "block/sculk_vein", "uvlock": true, "y": 180 },
+			{ "model": "block/sculk_vein1", "uvlock": true, "y": 180 },
+			{ "model": "block/sculk_vein2", "uvlock": true, "y": 180 },
+			{ "model": "block/sculk_vein3", "uvlock": true, "y": 180 },
+			{ "model": "block/sculk_vein4", "uvlock": true, "y": 180 },
+			{ "model": "block/sculk_vein5", "uvlock": true, "y": 180 }]
+        },
+    {
+      "when": {
+        "east": "true"
+      },
+            "apply": [
+			{ "model": "block/sculk_vein", "uvlock": true, "y": 90 },
+			{ "model": "block/sculk_vein1", "uvlock": true, "y": 90 },
+			{ "model": "block/sculk_vein2", "uvlock": true, "y": 90 },
+			{ "model": "block/sculk_vein3", "uvlock": true, "y": 90 },
+			{ "model": "block/sculk_vein4", "uvlock": true, "y": 90 },
+			{ "model": "block/sculk_vein5", "uvlock": true, "y": 90 }]
+        },
+    {
+      "when": {
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false",
+        "down": "false"
+      },
+            "apply": [
+			{ "model": "block/sculk_vein", "uvlock": true, "y": 90 },
+			{ "model": "block/sculk_vein1", "uvlock": true, "y": 90 },
+			{ "model": "block/sculk_vein2", "uvlock": true, "y": 90 },
+			{ "model": "block/sculk_vein3", "uvlock": true, "y": 90 },
+			{ "model": "block/sculk_vein4", "uvlock": true, "y": 90 },
+			{ "model": "block/sculk_vein5", "uvlock": true, "y": 90 }]
+        },
+    {
+      "when": {
+        "down": "true"
+      },
+            "apply": [
+			{ "model": "block/sculk_vein", "uvlock": true, "x": 90 },
+			{ "model": "block/sculk_vein1", "uvlock": true, "x": 90 },
+			{ "model": "block/sculk_vein2", "uvlock": true, "x": 90 },
+			{ "model": "block/sculk_vein3", "uvlock": true, "x": 90 },
+			{ "model": "block/sculk_vein4", "uvlock": true, "x": 90 },
+			{ "model": "block/sculk_vein5", "uvlock": true, "x": 90 }]
+        },
+    {
+      "when": {
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false",
+        "down": "false"
+      },
+            "apply": [
+			{ "model": "block/sculk_vein", "uvlock": true, "x": 90 },
+			{ "model": "block/sculk_vein1", "uvlock": true, "x": 90 },
+			{ "model": "block/sculk_vein2", "uvlock": true, "x": 90 },
+			{ "model": "block/sculk_vein3", "uvlock": true, "x": 90 },
+			{ "model": "block/sculk_vein4", "uvlock": true, "x": 90 },
+			{ "model": "block/sculk_vein5", "uvlock": true, "x": 90 }]
+        }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+	"textureSize": [32, 32],
+	"models": [
+		{
+			"part": "knot",
+			"id": "knot",
+			"invertAxis": "xy",
+			"translate": [0, -6, 0],
+			"boxes": [
+				{"coordinates": [-3, 6, -3, 6, 8, 6], "textureOffset": [0, 0]},
+				{"coordinates": [-3, 11, -3, 6, 0, 6], "textureOffset": [0, 14]},
+				{"coordinates": [-3, 8, -3, 6, 0, 6], "textureOffset": [0, 14]},
+				{"coordinates": [-3, 9, -3, 6, 0, 6], "textureOffset": [0, 20]},
+				{"coordinates": [-3, 12, -3, 6, 0, 6], "textureOffset": [0, 20]}
+			]
+		}
+	]
+}

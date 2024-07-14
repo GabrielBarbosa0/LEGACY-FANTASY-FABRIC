@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "age=0": [
+      {
+        "model": "minecraft:block/frosted_ice_0"
+      },
+      {
+        "model": "minecraft:block/frosted_ice1_0"
+      }
+    ],
+    "age=1": [
+      {
+        "model": "minecraft:block/frosted_ice_1"
+      },
+      {
+        "model": "minecraft:block/frosted_ice1_1"
+      }
+    ],
+    "age=2": [
+      {
+        "model": "minecraft:block/frosted_ice_2"
+      },
+      {
+        "model": "minecraft:block/frosted_ice1_2"
+      }
+    ],
+    "age=3": [
+      {
+        "model": "minecraft:block/frosted_ice_3"
+      },
+      {
+        "model": "minecraft:block/frosted_ice1_3"
+      }
+    ]
+  }
+}
