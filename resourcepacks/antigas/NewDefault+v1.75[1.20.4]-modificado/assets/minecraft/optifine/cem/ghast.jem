@@ -1,0 +1,130 @@
+{
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -20, 0],
+			"boxes": [
+				{"coordinates": [-8, 12, -8, 16, 16, 16], "textureOffset": [0, 0]},
+				{"coordinates": [1, 27.5, -2, 2, 1, 1], "textureOffset": [10, 14]},
+				{"coordinates": [1, 27.5, 3, 2, 1, 1], "textureOffset": [10, 14]},
+				{"coordinates": [2, 27.5, 2, 1, 1, 1], "textureOffset": [12, 12]},
+				{"coordinates": [-3, 27.5, 2, 1, 1, 1], "textureOffset": [12, 12]},
+				{"coordinates": [-3, 27.5, -1, 1, 1, 1], "textureOffset": [12, 12]},
+				{"coordinates": [2, 27.5, -1, 1, 1, 1], "textureOffset": [12, 12]},
+				{"coordinates": [9.5, 19, -7, 0, 8, 8], "textureOffset": [48, 0]},
+				{"coordinates": [7.5, 27, -7, 2, 0, 8], "textureOffset": [2, 0]},
+				{"coordinates": [7.5, 19, -7, 2, 0, 8], "textureOffset": [52, 0]},
+				{"coordinates": [7.5, 19, -7, 2, 8, 0], "textureOffset": [48, 0]},
+				{"coordinates": [7.5, 19, 1, 2, 8, 0], "textureOffset": [48, 0]}
+			],
+			"submodels": [
+				{
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [-9.5, 27, -4, 2, 0, 6], "textureOffset": [4, 1]},
+						{"coordinates": [-9.5, 15, 5, 2, 3, 0], "textureOffset": [48, 5]},
+						{"coordinates": [-9.5, 24, -7, 2, 3, 0], "textureOffset": [48, 0]},
+						{"coordinates": [-9.5, 18, -7, 2, 6, 0], "textureOffset": [48, 1]},
+						{"coordinates": [-9.5, 15, -7, 2, 3, 0], "textureOffset": [48, 5]},
+						{"coordinates": [-9.5, 24, 5, 2, 3, 0], "textureOffset": [48, 0]},
+						{"coordinates": [-9.5, 18, 5, 2, 6, 0], "textureOffset": [48, 1]},
+						{"coordinates": [-9.5, 15, -7, 2, 0, 3], "textureOffset": [57, 5]},
+						{"coordinates": [-9.5, 15, 2, 2, 0, 3], "textureOffset": [57, 0]},
+						{"coordinates": [-9.5, 15, -4, 2, 0, 6], "textureOffset": [54, 1]},
+						{"coordinates": [-9.5, 27, 2, 2, 0, 3], "textureOffset": [7, 0]},
+						{"coordinates": [-9.5, 27, -7, 2, 0, 3], "textureOffset": [7, 5]},
+						{"coordinates": [-3, 27.5, -2, 2, 1, 1], "textureOffset": [10, 14]},
+						{"coordinates": [-3, 27.5, 3, 2, 1, 1], "textureOffset": [10, 14]},
+						{"coordinates": [-7.5, 17, -5, 0, 8, 7], "textureOffset": [49, 1], "sizeAdd": 1.999},
+						{"coordinates": [-7.5, 17, 3, 0, 8, 0], "textureOffset": [55, 8], "sizeAdd": 1.99}
+					]
+				}
+			]
+		},
+		{
+			"part": "tentacle1",
+			"id": "tentacle1",
+			"invertAxis": "xy",
+			"translate": [-3.7, -13, 5],
+			"boxes": [
+				{"coordinates": [2.7, 5, -6, 2, 8, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "tentacle2",
+			"id": "tentacle2",
+			"invertAxis": "xy",
+			"translate": [1.3, -13, 5],
+			"boxes": [
+				{"coordinates": [-7.3, 4, -6, 2, 9, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "tentacle3",
+			"id": "tentacle3",
+			"invertAxis": "xy",
+			"translate": [6.3, -13, 5],
+			"boxes": [
+				{"coordinates": [-2.3, 0, -6, 2, 13, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "tentacle4",
+			"id": "tentacle4",
+			"invertAxis": "xy",
+			"translate": [-6.3, -13, 0],
+			"boxes": [
+				{"coordinates": [5.3, 2, -1, 2, 11, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "tentacle5",
+			"id": "tentacle5",
+			"invertAxis": "xy",
+			"translate": [-1.3, -13, 0],
+			"boxes": [
+				{"coordinates": [0.3, 2, -1, 2, 11, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "tentacle6",
+			"id": "tentacle6",
+			"invertAxis": "xy",
+			"translate": [3.7, -13, 0],
+			"boxes": [
+				{"coordinates": [-4.7, 3, -1, 2, 10, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "tentacle7",
+			"id": "tentacle7",
+			"invertAxis": "xy",
+			"translate": [-3.7, -13, -5],
+			"boxes": [
+				{"coordinates": [2.7, 1, 4, 2, 12, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "tentacle8",
+			"id": "tentacle8",
+			"invertAxis": "xy",
+			"translate": [1.3, -13, -5],
+			"boxes": [
+				{"coordinates": [-7.3, 1, 4, 2, 12, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "tentacle9",
+			"id": "tentacle9",
+			"invertAxis": "xy",
+			"translate": [6.3, -13, -5],
+			"boxes": [
+				{"coordinates": [-2.3, 4, 4, 2, 9, 2], "textureOffset": [0, 0]}
+			]
+		}
+	]
+}

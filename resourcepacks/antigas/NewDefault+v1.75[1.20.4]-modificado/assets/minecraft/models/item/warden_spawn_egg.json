@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+    "textures": {
+	"layer0": "minecraft:item/warden_spawn_egg",
+	"layer1": "minecraft:item/warden_spawn_egg_1"
+    }
+}

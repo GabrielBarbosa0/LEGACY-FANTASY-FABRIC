@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/blue_ice"
+      },
+      {
+        "model": "minecraft:block/blue_ice1"
+      }
+    ]
+  }
+}

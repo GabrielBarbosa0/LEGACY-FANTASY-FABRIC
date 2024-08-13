@@ -1,0 +1,199 @@
+{
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "minecraft:optifine/cit/icons/new_default_plus_dungeons/icons_shield/uranium_dipylon",
+		"particle": "minecraft:optifine/cit/icons/new_default_plus_dungeons/icons_shield/uranium_dipylon"
+	},
+	"elements": [
+		{
+			"from": [-3, 7, 1],
+			"to": [3, 9, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 14, 16]},
+			"faces": {
+				"north": {"uv": [0.25, 6.25, 1.75, 6.75], "texture": "#0"},
+				"east": {"uv": [0, 6.25, 0.25, 6.75], "texture": "#0"},
+				"south": {"uv": [2, 6.25, 3.5, 6.75], "texture": "#0"},
+				"west": {"uv": [1.75, 6.25, 2, 6.75], "texture": "#0"},
+				"up": {"uv": [1.75, 6.25, 0.25, 6], "texture": "#0"},
+				"down": {"uv": [3.25, 6, 1.75, 6.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-3, -9, 1],
+			"to": [3, -7, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 14, 16]},
+			"faces": {
+				"north": {"uv": [4.25, 5.5, 5.75, 6], "texture": "#0"},
+				"east": {"uv": [4, 5.5, 4.25, 6], "texture": "#0"},
+				"south": {"uv": [6, 5.5, 7.5, 6], "texture": "#0"},
+				"west": {"uv": [5.75, 5.5, 6, 6], "texture": "#0"},
+				"up": {"uv": [5.75, 5.5, 4.25, 5.25], "texture": "#0"},
+				"down": {"uv": [7.25, 5.25, 5.75, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-5, 1, 1],
+			"to": [5, 3, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 14, 16]},
+			"faces": {
+				"north": {"uv": [2.75, 4, 5.25, 4.5], "texture": "#0"},
+				"east": {"uv": [2.5, 4, 2.75, 4.5], "texture": "#0"},
+				"south": {"uv": [5.5, 4, 8, 4.5], "texture": "#0"},
+				"west": {"uv": [5.25, 4, 5.5, 4.5], "texture": "#0"},
+				"up": {"uv": [5.25, 4, 2.75, 3.75], "texture": "#0"},
+				"down": {"uv": [7.75, 3.75, 5.25, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-5, -3, 1],
+			"to": [5, -1, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 14, 16]},
+			"faces": {
+				"north": {"uv": [2.75, 3.25, 5.25, 3.75], "texture": "#0"},
+				"east": {"uv": [2.5, 3.25, 2.75, 3.75], "texture": "#0"},
+				"south": {"uv": [5.5, 3.25, 8, 3.75], "texture": "#0"},
+				"west": {"uv": [5.25, 3.25, 5.5, 3.75], "texture": "#0"},
+				"up": {"uv": [5.25, 3.25, 2.75, 3], "texture": "#0"},
+				"down": {"uv": [7.75, 3, 5.25, 3.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-7, 5, 1],
+			"to": [7, 7, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 14, 16]},
+			"faces": {
+				"north": {"uv": [0.25, 2.5, 3.75, 3], "texture": "#0"},
+				"east": {"uv": [0, 2.5, 0.25, 3], "texture": "#0"},
+				"south": {"uv": [4, 2.5, 7.5, 3], "texture": "#0"},
+				"west": {"uv": [3.75, 2.5, 4, 3], "texture": "#0"},
+				"up": {"uv": [3.75, 2.5, 0.25, 2.25], "texture": "#0"},
+				"down": {"uv": [7.25, 2.25, 3.75, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-7, -7, 1],
+			"to": [7, -5, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 14, 16]},
+			"faces": {
+				"north": {"uv": [0.25, 1.75, 3.75, 2.25], "texture": "#0"},
+				"east": {"uv": [0, 1.75, 0.25, 2.25], "texture": "#0"},
+				"south": {"uv": [4, 1.75, 7.5, 2.25], "texture": "#0"},
+				"west": {"uv": [3.75, 1.75, 4, 2.25], "texture": "#0"},
+				"up": {"uv": [3.75, 1.75, 0.25, 1.5], "texture": "#0"},
+				"down": {"uv": [7.25, 1.5, 3.75, 1.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-9, 3, 1],
+			"to": [9, 5, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 14, 16]},
+			"faces": {
+				"north": {"uv": [0.25, 1, 4.75, 1.5], "texture": "#0"},
+				"east": {"uv": [0, 1, 0.25, 1.5], "texture": "#0"},
+				"south": {"uv": [5, 1, 9.5, 1.5], "texture": "#0"},
+				"west": {"uv": [4.75, 1, 5, 1.5], "texture": "#0"},
+				"up": {"uv": [4.75, 1, 0.25, 0.75], "texture": "#0"},
+				"down": {"uv": [9.25, 0.75, 4.75, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-9, -5, 1],
+			"to": [9, -3, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 14, 16]},
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 4.75, 0.75], "texture": "#0"},
+				"east": {"uv": [0, 0.25, 0.25, 0.75], "texture": "#0"},
+				"south": {"uv": [5, 0.25, 9.5, 0.75], "texture": "#0"},
+				"west": {"uv": [4.75, 0.25, 5, 0.75], "texture": "#0"},
+				"up": {"uv": [4.75, 0.25, 0.25, 0], "texture": "#0"},
+				"down": {"uv": [9.25, 0, 4.75, 0.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-3, -1, 1],
+			"to": [3, 1, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 14, 16]},
+			"faces": {
+				"north": {"uv": [4.25, 4.75, 5.75, 5.25], "texture": "#0"},
+				"east": {"uv": [4, 4.75, 4.25, 5.25], "texture": "#0"},
+				"south": {"uv": [6, 4.75, 7.5, 5.25], "texture": "#0"},
+				"west": {"uv": [5.75, 4.75, 6, 5.25], "texture": "#0"},
+				"up": {"uv": [5.75, 4.75, 4.25, 4.5], "texture": "#0"},
+				"down": {"uv": [7.25, 4.5, 5.75, 4.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-1, -3, -5],
+			"to": [1, 3, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 16, 16]},
+			"faces": {
+				"north": {"uv": [1.5, 4.5, 2, 6], "texture": "#0"},
+				"east": {"uv": [0, 4.5, 1.5, 6], "texture": "#0"},
+				"south": {"uv": [3.5, 4.5, 4, 6], "texture": "#0"},
+				"west": {"uv": [2, 4.5, 3.5, 6], "texture": "#0"},
+				"up": {"uv": [2, 4.5, 1.5, 3], "texture": "#0"},
+				"down": {"uv": [2.5, 3, 2, 4.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [10, 6, -4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [10, 6, 12]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 5],
+			"translation": [-10, 2, -10],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 5],
+			"translation": [10, 0, -10],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"ground": {
+			"translation": [4, 4, 2],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [15, -25, -5],
+			"translation": [4.25, 3.75, 0],
+			"scale": [0.825, 0.825, 0.825]
+		},
+		"head": {
+			"rotation": [1, 0, 0],
+			"translation": [8, 7.75, 19.5]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [-6, 5.75, -6.25],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "uranium_dipylon",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "body",
+					"origin": [9, 15, 16],
+					"color": 0,
+					"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+				},
+				{
+					"name": "handle",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [9]
+				}
+			]
+		}
+	]
+}

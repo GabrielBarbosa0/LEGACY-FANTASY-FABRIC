@@ -1,0 +1,21 @@
+======================
+Sources that inspired or are included in this pack:
+======================
+   - Minecraft Dungeons item textures
+   - Minecraft Story Mode armor textures
+   - Various Minecraft Dungeons/Earth/Story Mode mob textures
+   - Various "Vanilla Tweaks" packs (age 25 kelp tops [concept], lower shields, directional hoppers [concept], less obtrusive rain, 3D blocks [concept], & hunger preview [concept])
+   - FaithfulTeam's "Minecraft Faithful" (font)
+   - Okl1001's "Color Corkination" (concept)
+   - Yomny's "Better World Border"
+   - ForeverMaster's "FM Default" banner patterns (concept)
+   - sixfootblue's "Visual Fish Buckets" (concept)
+   - Pycat's "Small Totem Pop/Explosion/Activation" (concept)
+   - CraftMaster7's "Overworld Skybox" (inspiration)
+
+======================
+Special thanks:
+======================
+   - Bonsai (https://legacy.curseforge.com/members/8onsai_) for help with Allay CEM
+   - Zenith (https://curseforge.com/members/thezenithknight/) for help with Camel CEM
+   - Beane (https://www.youtube.com/channel/UCjnXZA9bSU8dtIcoGDCUtmw) for help with backporting features

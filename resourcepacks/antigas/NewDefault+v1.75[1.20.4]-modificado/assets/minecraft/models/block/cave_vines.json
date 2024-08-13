@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_seagrass_alt",
+  "textures": {
+    "texture": "minecraft:block/cave_vines"
+  }
+}
