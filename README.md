@@ -11,5 +11,5 @@ Uma jornada épica que transforma sua experiência no Minecraft em algo verdadei
 
 Prepare-se para mergulhar em um mundo de aventuras épicas, onde cada canto esconde segredos emocionantes e desafios inesperados. Baixe agora o modpack Legacy Fantasy e comece sua jornada hoje mesmo!
 
-
+Disponível para Minecraft 1.21.0 Fabric
 
