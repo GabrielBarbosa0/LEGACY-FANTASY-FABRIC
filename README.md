@@ -17,7 +17,7 @@ Disponível para Minecraft 1.21.0 Fabric -->
 
 **Uma jornada épica que transforma sua experiência no Minecraft em algo verdadeiramente mágico e fantástico. Prepare-se para explorar um mundo vasto e cheio de surpresas com uma variedade de recursos emocionantes.**
 
-## Recursos Principais:
+## Principais Recursos:
 
 - ✔️ **Ampliação do Nether**: Experimente um Nether ampliado e mais perigoso, com novos desafios e recompensas.
 - ✔️ **Móveis Diversos**: Adicione uma variedade de móveis ao seu mundo, criando ambientes mais ricos e detalhados.
