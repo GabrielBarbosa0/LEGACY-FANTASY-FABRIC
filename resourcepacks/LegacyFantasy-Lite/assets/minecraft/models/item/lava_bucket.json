@@ -1,0 +1,7 @@
+{
+    "parent": "item/bucket",
+
+    "textures": {
+		"liquid": "block/lava_still",
+		"overlay": "block/lava"
+    }}
