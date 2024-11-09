@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/template_seagrass_alt",
-  "textures": {
-    "texture": "minecraft:block/sweet_berry_bush_stage2"
-  }
-}

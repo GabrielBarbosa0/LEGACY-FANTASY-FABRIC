@@ -1,7 +1,0 @@
-{
-    "parent": "block/fire_side",
-    "textures": {
-        "particle": "block/fire_2",
-        "fire": "block/fire_2"
-    }
-}

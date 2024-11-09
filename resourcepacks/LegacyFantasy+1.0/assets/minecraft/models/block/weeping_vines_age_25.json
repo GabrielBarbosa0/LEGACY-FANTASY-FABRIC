@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/template_seagrass_alt",
-  "textures": {
-    "particle": "block/weeping_vines_age_25",
-    "texture": "block/weeping_vines_age_25"
-    }
-}

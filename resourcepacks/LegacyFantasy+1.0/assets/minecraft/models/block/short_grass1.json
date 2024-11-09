@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/template_tinted_seagrass",
-  "textures": {
-    "texture": "minecraft:block/short_grass1"
-  }
-}
