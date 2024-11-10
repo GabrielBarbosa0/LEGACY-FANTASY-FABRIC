@@ -1,0 +1,7 @@
+{
+  "simply_skills_compat": true,
+  "tieredz_compat": true,
+  "tierify_compat": true,
+  "kevstierifymodifiers_compat": true,
+  "rage_dmg_calc_missing_health_multiplication_factor": 0.1
+}

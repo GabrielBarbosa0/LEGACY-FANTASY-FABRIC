@@ -1,0 +1,7 @@
+{
+  "mob_drops": true,
+  "frequency": 1.0,
+  "debug": false,
+  "rooms_per_level": 20,
+  "roguelike_loot": true
+}
