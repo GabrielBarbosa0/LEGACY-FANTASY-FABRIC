@@ -2,7 +2,8 @@
   "allowMovement": {
     "net.minecraft.class_434": true,
     "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true,
-    "folk.sisby.antique_atlas.gui.AtlasScreen": true
+    "folk.sisby.antique_atlas.gui.AtlasScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
   },
   "hideBackground": {
     "folk.sisby.antique_atlas.gui.AtlasScreen": true
