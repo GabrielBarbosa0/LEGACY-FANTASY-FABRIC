@@ -1,0 +1,16 @@
+{
+	"pack": {
+		"pack_format": 15,
+        	"supported_formats":[15,999],
+		"description": "§d★ CIT Resewn Required!\n§3✎ By GabrielBarbosa0"
+	},
+	
+	"overlays": {
+		"entries": [
+			{
+				"directory": "1.21",
+				"formats": [34,999]
+			}
+		]
+	}
+}
