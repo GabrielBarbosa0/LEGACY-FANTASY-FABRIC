@@ -1,0 +1,7 @@
+{
+    "parent": "item/cod",
+
+    "textures": {
+      "overlay": "item/cod1",
+      "particle": "item/cooked_cod"
+    }}

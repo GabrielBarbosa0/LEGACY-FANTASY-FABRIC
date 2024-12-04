@@ -1,0 +1,8 @@
+{
+    "parent": "item/salmon",
+
+    "textures": {
+      "overlay": "item/salmon1",
+      "fins": "item/air",
+      "particle": "item/cooked_salmon"
+    }}
