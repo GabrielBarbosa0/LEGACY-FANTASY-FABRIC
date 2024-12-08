@@ -49,7 +49,7 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","file/Fast Better Grass.zip","file/LegacyFantasy-Lite-v1.2(NoSky)"]
-incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","customizableelytra","dungeons_arise","enchdesc","essential","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","sereneseasons","sodiumdynamiclights","spark","spectrelib","toms_storage","veinmining","waystones","yet_another_config_lib_v3"]
+incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","customizableelytra","dungeons_arise","enchdesc","essential","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","sereneseasons","sodiumdynamiclights","spark","spectrelib","starterkit","toms_storage","veinmining","waystones","yet_another_config_lib_v3"]
 lastServer:
 lang:pt_br
 chatVisibility:0
@@ -144,7 +144,7 @@ key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown
 key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
-key_key.carry.desc:key.keyboard.left.control
+key_key.carry.desc:key.keyboard.unknown
 key_chunkloaders.keys.open_screen:key.keyboard.unknown
 key_keybinds.combat_roll.roll:key.keyboard.r
 key_key.configured.open_mod_list:key.keyboard.unknown
