@@ -1,0 +1,1 @@
+Um conjurador destrutivo que manipula as chamas para causar dano massivo. Ele incendeia tudo ao seu redor, deixando um rastro de destruição.

@@ -1,0 +1,19 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "folk.sisby.antique_atlas.gui.AtlasScreen": true,
+    "com.moulberry.axiom.screen.EditMarkerScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+    "net.levelz.screen.LevelScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "net.levelz.screen.SkillRestrictionScreen": true,
+    "net.levelz.screen.SkillInfoScreen": true,
+    "net.partyaddon.screen.PartyScreen": true,
+    "com.natamus.starterkit_common_fabric.inventory.StarterKitInventoryScreen": true
+  },
+  "hideBackground": {
+    "folk.sisby.antique_atlas.gui.AtlasScreen": true,
+    "com.moulberry.axiom.screen.EditMarkerScreen": true,
+    "com.natamus.starterkit_common_fabric.inventory.StarterKitInventoryScreen": true
+  }
+}

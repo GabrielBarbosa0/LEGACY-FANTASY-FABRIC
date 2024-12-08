@@ -1,0 +1,659 @@
+{
+  "weapons": {
+    "wand_netherite_terra": {
+      "attack_damage": 2.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:earth",
+          "value": 4.5,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "wand_terra": {
+      "attack_damage": 2.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:earth",
+          "value": 4.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "wand_wind": {
+      "attack_damage": 2.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:air",
+          "value": 4.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "staff_terra": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:earth",
+          "value": 5.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "wand_aqua": {
+      "attack_damage": 2.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:water",
+          "value": 4.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "staff_netherite_aqua": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:water",
+          "value": 6.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "staff_wind": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:air",
+          "value": 5.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "wand_feather": {
+      "attack_damage": 2.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:air",
+          "value": 3.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "wand_netherite_wind": {
+      "attack_damage": 2.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:air",
+          "value": 4.5,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "wand_kelp": {
+      "attack_damage": 2.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:water",
+          "value": 3.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "wand_clay": {
+      "attack_damage": 2.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:earth",
+          "value": 3.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "staff_netherite_terra": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:earth",
+          "value": 6.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "staff_netherite_wind": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:air",
+          "value": 6.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "wand_netherite_aqua": {
+      "attack_damage": 2.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:water",
+          "value": 4.5,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "staff_aqua": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:water",
+          "value": 5.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    }
+  },
+  "armor_sets": {
+    "elemental": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:air",
+            "value": 0.2,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:earth",
+            "value": 0.2,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:water",
+            "value": 0.2,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:fire",
+            "value": 0.2,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:air",
+            "value": 0.2,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:earth",
+            "value": 0.2,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:water",
+            "value": 0.2,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:fire",
+            "value": 0.2,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:air",
+            "value": 0.2,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:earth",
+            "value": 0.2,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:water",
+            "value": 0.2,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:fire",
+            "value": 0.2,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:air",
+            "value": 0.2,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:earth",
+            "value": 0.2,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:water",
+            "value": 0.2,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:fire",
+            "value": 0.2,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "netherite_kelp": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:water",
+            "value": 0.3,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:water",
+            "value": 0.3,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:water",
+            "value": 0.3,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:water",
+            "value": 0.3,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "netherite_dripstone": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:earth",
+            "value": 0.3,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:earth",
+            "value": 0.3,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:earth",
+            "value": 0.3,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:earth",
+            "value": 0.3,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "netherite_wind": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:air",
+            "value": 0.3,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:air",
+            "value": 0.3,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:air",
+            "value": 0.3,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:air",
+            "value": 0.3,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "dripstone": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:earth",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:earth",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:earth",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:earth",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "kelp": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:water",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:water",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:water",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:water",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "wind": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:air",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:air",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:air",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:air",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    }
+  }
+}
