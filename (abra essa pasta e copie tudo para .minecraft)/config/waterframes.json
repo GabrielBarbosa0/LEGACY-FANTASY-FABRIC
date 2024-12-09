@@ -1,0 +1,76 @@
+{
+  "Rendering": {
+    "maxWidth": 48.0,
+    "maxHeight": 48.0,
+    "maxRenderDistance": 64,
+    "maxProjectionDistance": 64.0,
+    "keepRendering": true
+  },
+  "Multimedia": {
+    "Multimedia": {
+      "maxVolumeDistance": 64,
+      "maxVolume": 100,
+      "useMasterVolume": false,
+      "useVSEurekaCompat": true
+    },
+    "WaterMedia": {
+      "WaterMedia": {
+        "useMultimedia": true
+      }
+    }
+  },
+  "BlockBehavior": {
+    "useLightsOnPlay": true,
+    "forceLightsOnPlay": true,
+    "useRedstone": true,
+    "useMasterModeOnRedsone": false,
+    "useLagTickCorrection": true
+  },
+  "RemoteControl": {
+    "remoteDistance": 32
+  },
+  "Permissions": {
+    "useInAdventure": false,
+    "useInSurvival": true,
+    "useForAnyone": true
+  },
+  "Whitelist": {
+    "useWhitelist": true,
+    "whitelist": [
+      "imgur.com",
+      "gyazo.com",
+      "prntscr.com",
+      "tinypic.com",
+      "puu.sh",
+      "pinimg.com",
+      "photobucket.com",
+      "staticflickr.com",
+      "flic.kr",
+      "tenor.co",
+      "gfycat.com",
+      "giphy.com",
+      "gph.is",
+      "gifbin.com",
+      "i.redd.it",
+      "media.tumblr.com",
+      "twimg.com",
+      "discordapp.com",
+      "images.discordapp.net",
+      "discord.com",
+      "githubusercontent.com",
+      "googleusercontent.com",
+      "googleapis.com",
+      "wikimedia.org",
+      "ytimg.com",
+      "youtube.com",
+      "youtu.be",
+      "twitch.tv",
+      "twitter.com",
+      "soundcloud.com",
+      "kick.com",
+      "srrapero720.me",
+      "fbcdn.net",
+      "drive.google.com"
+    ]
+  }
+}

@@ -21,8 +21,8 @@ mipmapLevels:4
 narrator:0
 particles:0
 reducedDebugInfo:false
-renderClouds:"false"
-renderDistance:32
+renderClouds:"true"
+renderDistance:12
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
@@ -77,7 +77,7 @@ rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:true
 syncChunkWrites:true
 showAutosaveIndicator:true

@@ -9,7 +9,11 @@
     "net.levelz.screen.SkillRestrictionScreen": true,
     "net.levelz.screen.SkillInfoScreen": true,
     "net.partyaddon.screen.PartyScreen": true,
-    "com.natamus.starterkit_common_fabric.inventory.StarterKitInventoryScreen": true
+    "com.natamus.starterkit_common_fabric.inventory.StarterKitInventoryScreen": true,
+    "net.spell_engine.spellbinding.SpellBindingScreen": true,
+    "net.minecraft.class_433": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "team.creative.creativecore.common.gui.integration.ContainerScreenIntegration": true
   },
   "hideBackground": {
     "folk.sisby.antique_atlas.gui.AtlasScreen": true,
