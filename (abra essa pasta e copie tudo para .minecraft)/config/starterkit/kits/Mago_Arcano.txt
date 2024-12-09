@@ -3,7 +3,7 @@
 'legs' : '{count:1,id:"wizards:arcane_robe_legs"}',
 'feet' : '{count:1,id:"wizards:arcane_robe_feet"}',
 'offhand' : '',
-0 : '{count:1,id:"wizards:wand_arcane"}',
+0 : '{components:{"minecraft:enchantments":{levels:{"spell_engine:spell_infinity":1}},"minecraft:repair_cost":1},count:1,id:"wizards:wand_arcane"}',
 1 : '{count:1,id:"paladins:iron_claymore"}',
 2 : '{components:{"minecraft:enchantments":{levels:{"spell_engine:spell_infinity":1}},"minecraft:repair_cost":1,"spell_engine:spell_container":{pool:"wizards:arcane",spell_ids:["wizards:arcane_missile","wizards:arcane_blast"]}},count:1,id:"wizards:arcane_spell_book"}',
 3 : '{count:1,id:"artifacts:eternal_steak"}',
