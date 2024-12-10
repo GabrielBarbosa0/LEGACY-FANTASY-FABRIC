@@ -1,0 +1,50 @@
+#Blocking requires both hands, meaning the hand not holding the sword must be empty.
+#Default Value: false
+require_both_hands = false
+#Prioritize usable off-hand items over sword blocking from the main hand. Items not recognized by default can be included in a dedicated item tag.
+#Default Value: true
+prioritize_off_hand = true
+#Allow blocking with swords, which will reduce most incoming attacks by 50% and render a parry animation.
+#Default Value: true
+allow_blocking_and_parrying = true
+#The minimum attack strength required to be able to start blocking.
+#Default Value: 0.0
+#Range: 0.0 ~ 1.0
+required_attack_strength = 0.0
+#Percentage to slow down movement to while blocking.
+#Default Value: 0.2
+#Range: 0.0 ~ 1.0
+blocking_slowdown = 0.2
+#Arc of available protection depending on what angle the attack is coming from and where the player is looking (means the lower this angle the closer you need to be facing your attacker).
+#Default Value: 360.0
+#Range: 0.0 ~ 360.0
+protection_arc = 360.0
+
+[blocking]
+	#Percentage an incoming attack will be reduced by when blocking.
+	#Default Value: 0.5
+	#Range: 0.0 ~ 1.0
+	blocked_damage = 0.5
+	#Percentage to reduce knockback by while sword blocking.
+	#Default Value: 0.2
+	#Range: 0.0 ~ 1.0
+	knockback_reduction = 0.2
+	#Damage sword when blocking an attack depending on the amount of damage blocked. Sword is only damaged when at least three damage points have been blocked, just like a shield.
+	#Default Value: false
+	damage_sword_on_block = false
+	#Incoming projectiles such as arrows or tridents will ricochet while blocking.
+	#Default Value: false
+	deflect_projectiles = false
+
+[parrying]
+	#Amount of ticks after starting to block in which an attack will be completely nullified like when blocking with a shield.
+	#Default Value: 10
+	#Range: 0 ~ 72000
+	parry_window = 10
+	#Damage sword when successfully parrying depending on the amount of damage blocked. Sword is only damaged when at least three damage points have been parried, just like a shield.
+	#Default Value: false
+	damage_sword_on_parry = false
+	#The strength a parried attacker will be knocked back by.
+	#Default Value: 0.5
+	#Range: 0.1 ~ 5.0
+	parry_knockback_strength = 0.5
