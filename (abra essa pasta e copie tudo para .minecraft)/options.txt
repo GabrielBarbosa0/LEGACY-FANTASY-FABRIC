@@ -12,8 +12,8 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:false
-gamma:0.5
+fullscreen:true
+gamma:0.2
 graphicsMode:1
 guiScale:3
 maxFps:150
@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:32
+renderDistance:20
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","file/Fast Better Grass.zip","file/LegacyFantasy-Lite-v1.2"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","file/Fast Better Grass.zip","file/LegacyFantasy-Lite-v1.2(NoSky)"]
 incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","customizableelytra","dungeons_arise","enchdesc","essential","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","sereneseasons","sodiumdynamiclights","spark","spectrelib","starterkit","toms_storage","veinmining","waterframes","waystones","yet_another_config_lib_v3"]
 lastServer:
 lang:pt_br
