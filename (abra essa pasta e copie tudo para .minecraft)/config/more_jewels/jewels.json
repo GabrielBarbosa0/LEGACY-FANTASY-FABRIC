@@ -1,0 +1,6 @@
+{
+  "tier_1_spell_power_bonus": 0.04,
+  "tier_2_spell_power_bonus": 0.08,
+  "tier_3_primary_spell_power_bonus": 0.08,
+  "tier_3_secondary_spell_haste_bonus": 0.04
+}

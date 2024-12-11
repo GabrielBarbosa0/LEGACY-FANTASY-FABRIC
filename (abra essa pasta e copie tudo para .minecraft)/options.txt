@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","file/Fast Better Grass.zip","file/LegacyFantasy-Lite-v1.2(NoSky)"]
-incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","customizableelytra","dungeons_arise","enchdesc","essential","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","sereneseasons","sodiumdynamiclights","spark","spectrelib","starterkit","toms_storage","veinmining","waterframes","waystones","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","file/Fast Better Grass.zip","file/LegacyFantasy-Lite-v1.2(NoSky)","file/BetterDragonRemastered[20].zip"]
+incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","customizableelytra","dungeons_arise","enchdesc","essential","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","sereneseasons","sodiumdynamiclights","spark","spectrelib","starterkit","toms_storage","veinmining","waterframes","waystones","yet_another_config_lib_v3","file/BetterDragonRemastered[20].zip"]
 lastServer:
 lang:pt_br
 chatVisibility:0

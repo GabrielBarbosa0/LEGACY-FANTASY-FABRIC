@@ -1,0 +1,11 @@
+{
+  "motivated_melee_attack_speed_bonus": 0.05,
+  "motivated_ranged_attack_speed_bonus": 0.05,
+  "incited_melee_attack_power_bonus": 0.1,
+  "incited_ranged_attack_power_bonus": 0.1,
+  "inspired_spell_haste_bonus": 0.05,
+  "concentrated_critical_damage_bonus": 0.1,
+  "concentrated_critical_chance_bonus": 0.05,
+  "resoluted_generic_armor_bonus": 0.1,
+  "resoluted_generic_knockback_resistance_bonus": 0.05
+}

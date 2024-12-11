@@ -1,0 +1,158 @@
+{
+  "weapons": {
+    "wooden_blood_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:blood_element",
+          "value": 2.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "netherite_blood_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:blood_element",
+          "value": 5.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "starforged_blood_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:blood_element",
+          "value": 6.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "iron_blood_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:blood_element",
+          "value": 4.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    }
+  },
+  "armor_sets": {
+    "blood_mage_armor_t1": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:blood_element",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:blood_element",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:blood_element",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:blood_element",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      }
+    },
+    "blood_mage_armor_t2": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:blood_element",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.025,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:blood_element",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.025,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:blood_element",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.025,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:blood_element",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.025,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    }
+  }
+}
