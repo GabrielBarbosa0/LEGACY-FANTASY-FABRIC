@@ -3,7 +3,7 @@
 'legs' : '{count:1,id:"archers:archer_armor_legs"}',
 'feet' : '{count:1,id:"archers:archer_armor_feet"}',
 'offhand' : '',
-0 : '{components:{"minecraft:enchantments":{levels:{"minecraft:infinity":1}},"minecraft:repair_cost":1},count:1,id:"archers:composite_longbow"}',
+0 : '{count:1,id:"archers:mechanic_shortbow"}',
 1 : '{count:1,id:"rogues:iron_dagger"}',
 2 : '{components:{"minecraft:enchantments":{levels:{"spell_engine:spell_infinity":1}},"minecraft:repair_cost":1,"spell_engine:spell_container":{content:"ARCHERY",pool:"archers:archer",spell_ids:["archers:power_shot","archers:entangling_roots"]}},count:1,id:"archers:archer_spell_book"}',
 3 : '{count:1,id:"artifacts:eternal_steak"}',
