@@ -1,6 +1,6 @@
 <!-- <img src="https://raw.githubusercontent.com/GabrielBarbosa0/EPIC-FANTASY-MODPACK/master/image/imagem-repositorio-github.png"/>-->
 
-### Legacy Fantasy Modpack para Minecraft 1.21.0 (Fabric)
+### Legacy Fantasy Modpack para Minecraft 1.21.1 (Fabric)
 
 **Uma jornada épica que transforma sua experiência no Minecraft em algo verdadeiramente mágico e fantástico. Prepare-se para explorar um mundo vasto e cheio de surpresas com uma variedade de recursos emocionantes.**
 
