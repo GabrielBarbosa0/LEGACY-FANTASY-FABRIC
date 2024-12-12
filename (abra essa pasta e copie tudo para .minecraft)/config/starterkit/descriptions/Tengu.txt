@@ -1,1 +1,1 @@
-You can edit this description in ./config/starterkit/description/Tengu.txt!
+Um guerreiro amaldiçoado carrega uma máscara de Tengu presa ao rosto, conferindo poder, mas o consumindo com instintos bestiais.

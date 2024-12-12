@@ -12,7 +12,7 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:true
+fullscreen:false
 gamma:0.2
 graphicsMode:1
 guiScale:3
@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:16
+renderDistance:8
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
@@ -153,6 +153,8 @@ key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_fpsreducer.key.openGui:key.keyboard.keypad.9
 key_fpsreducer.key.forceIdle:key.keyboard.unknown
+key_key.heywiki.open:key.keyboard.u
+key_key.heywiki.open_search:key.keyboard.b
 key_key.inventoryhud.toggle:key.keyboard.unknown
 key_key.inventoryhud.openconfig:key.keyboard.unknown
 key_key.inventoryhud.togglepot:key.keyboard.unknown
@@ -179,7 +181,7 @@ key_keybindings.spell_engine.spell_hotbar_7:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_8:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_9:key.keyboard.unknown
 key_key.toms_storage.open_terminal:key.keyboard.unknown
-key_key.travelersbackpack.inventory:key.keyboard.v
+key_key.travelersbackpack.inventory:key.keyboard.o
 key_key.travelersbackpack.sort:key.keyboard.unknown
 key_key.travelersbackpack.ability:key.keyboard.unknown
 key_key.travelersbackpack.cycle_tool:key.keyboard.unknown
@@ -187,7 +189,7 @@ key_key.travelersbackpack.toggle_tank:key.keyboard.unknown
 key_key.veinmining.activate.desc:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.m
+key_key.mute_microphone:key.keyboard.z
 key_key.disable_voice_chat:key.keyboard.n
 key_key.hide_icons:key.keyboard.h
 key_key.voice_chat:key.keyboard.v
