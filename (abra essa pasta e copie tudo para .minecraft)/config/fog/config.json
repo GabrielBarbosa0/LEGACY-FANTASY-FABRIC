@@ -1,5 +1,5 @@
 {
-	"disableMod": false,
+	"disableMod": true,
 	"disabledDimensions": [
 		"minecraft:the_nether"
 	],
@@ -15,6 +15,6 @@
 	"fogEndTransitionSpeed": 0.005,
 	"darknessTransitionSpeed": 0.005,
 	"fogColorTransitionSpeed": 0.025,
-	"startMultiplierTransitionSpeed": 0.0075,
-	"endMultiplierTransitionSpeed": 0.0075
+	"startMultiplierTransitionSpeed": 0.007,
+	"endMultiplierTransitionSpeed": 0.007
 }

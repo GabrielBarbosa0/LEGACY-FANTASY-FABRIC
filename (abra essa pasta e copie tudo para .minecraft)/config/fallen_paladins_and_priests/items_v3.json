@@ -1,0 +1,235 @@
+{
+  "weapons": {
+    "unholy_staff": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:corruption_element",
+          "value": 4.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "netherite_unholy_staff": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:corruption_element",
+          "value": 5.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "starforged_unholy_staff": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:corruption_element",
+          "value": 6.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    }
+  },
+  "armor_sets": {
+    "fell_priest_robe_t2": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:corruption_element",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:corruption_element",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:corruption_element",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:corruption_element",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "fell_priest_robe_t1": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:corruption_element",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:corruption_element",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:corruption_element",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:corruption_element",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      }
+    },
+    "fell_paladin_armor_t1": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:blood_element",
+            "value": 0.5,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 6,
+        "attributes": [
+          {
+            "id": "spell_power:blood_element",
+            "value": 0.5,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 5,
+        "attributes": [
+          {
+            "id": "spell_power:blood_element",
+            "value": 0.5,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:blood_element",
+            "value": 0.5,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      }
+    },
+    "fell_paladin_armor_t2": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:blood_element",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 6,
+        "attributes": [
+          {
+            "id": "spell_power:blood_element",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 5,
+        "attributes": [
+          {
+            "id": "spell_power:blood_element",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:blood_element",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      }
+    }
+  }
+}

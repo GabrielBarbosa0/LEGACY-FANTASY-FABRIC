@@ -1,0 +1,469 @@
+{
+  "weapons": {
+    "starforged_dark_fire_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:fire",
+          "value": 6.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "starforged_dark_frost_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:frost",
+          "value": 6.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "dark_arcane_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 4.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "starforged_dark_arcane_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 6.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "netherite_dark_frost_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:frost",
+          "value": 5.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "netherite_dark_fire_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:fire",
+          "value": 5.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "netherite_dark_arcane_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 5.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "dark_fire_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:fire",
+          "value": 4.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "dark_frost_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:frost",
+          "value": 4.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    }
+  },
+  "armor_sets": {
+    "dark_arcane_wizard_armor_t1": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      }
+    },
+    "dark_arcane_wizard_armor_t2": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.025,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.025,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.025,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.025,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "dark_fire_wizard_armor_t2": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:fire",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:fire",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:fire",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:fire",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "dark_fire_wizard_armor_t1": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:fire",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:fire",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:fire",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:fire",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      }
+    },
+    "dark_frost_wizard_armor_t2": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.025,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.025,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.025,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 0.25,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.025,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "dark_frost_wizard_armor_t1": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      }
+    }
+  }
+}

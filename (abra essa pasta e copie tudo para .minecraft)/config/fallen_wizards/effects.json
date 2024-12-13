@@ -1,0 +1,14 @@
+{
+  "fire_empowering_spell_level_cap": 50,
+  "frost_empowering_spell_level_cap": 50,
+  "arcane_empowering_spell_level_cap": 50,
+  "fire_empowering_spell_power_bonus": 0.1,
+  "fire_empowering_spell_haste_bonus": 0.025,
+  "fire_empowering_slowness_malus": -0.1,
+  "frost_empowering_spell_power_bonus": 0.1,
+  "frost_empowering_spell_haste_bonus": 0.025,
+  "frost_empowering_slowness_malus": -0.1,
+  "arcane_empowering_spell_power_bonus": 0.1,
+  "arcane_empowering_spell_haste_bonus": 0.025,
+  "arcane_empowering_slowness_malus": -0.1
+}
