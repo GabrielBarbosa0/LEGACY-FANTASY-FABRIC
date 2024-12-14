@@ -12,7 +12,7 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:true
+fullscreen:false
 gamma:1.0
 graphicsMode:1
 guiScale:3
@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:20
+renderDistance:16
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
@@ -187,6 +187,7 @@ key_key.travelersbackpack.sort:key.keyboard.unknown
 key_key.travelersbackpack.ability:key.keyboard.unknown
 key_key.travelersbackpack.cycle_tool:key.keyboard.unknown
 key_key.travelersbackpack.toggle_tank:key.keyboard.unknown
+key_key.unionlib.open_union_inventory:key.keyboard.u
 key_key.veinmining.activate.desc:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
