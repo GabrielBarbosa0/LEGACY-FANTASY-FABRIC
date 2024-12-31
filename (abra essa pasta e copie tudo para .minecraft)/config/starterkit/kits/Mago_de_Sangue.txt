@@ -5,7 +5,7 @@
 'offhand' : '',
 0 : '{components:{"minecraft:enchantments":{levels:{"spell_engine:spell_infinity":1}},"minecraft:repair_cost":1},count:1,id:"blood_mages:iron_blood_staff"}',
 1 : '{components:{"minecraft:enchantments":{levels:{"spell_engine:spell_infinity":1}},"minecraft:repair_cost":1},count:1,id:"rogues:iron_dagger"}',
-2 : '{components:{"minecraft:enchantments":{levels:{"spell_engine:spell_infinity":1}},"minecraft:repair_cost":1,"spell_engine:spell_container":{pool:"blood_mages:blood_mages",spell_ids:["blood_mages:blood_shower","blood_mages:self_sacrifice"]}},count:1,id:"blood_mages:blood_mages_spell_book"}',
+2 : '{components:{"minecraft:enchantments":{levels:{"spell_engine:spell_infinity":1}},"minecraft:repair_cost":1,"spell_engine:spell_container":{pool:"blood_mages:blood_mages",spell_ids:["blood_mages:blood_shower","blood_mages:self_sacrifice","blood_mages:blood_orb"]}},count:1,id:"blood_mages:blood_mages_spell_book"}',
 3 : '{count:1,id:"artifacts:eternal_steak"}',
 4 : '',
 5 : '',

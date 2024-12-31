@@ -6,7 +6,7 @@
 0 : '{count:1,id:"knightquest:uchigatana_katana"}',
 1 : '{components:{"minecraft:enchantments":{levels:{"spell_engine:spell_infinity":1}},"minecraft:repair_cost":1,"spell_engine:spell_container":{pool:"berserker_rpg:berserker",spell_ids:["berserker_rpg:wild_rage","berserker_rpg:outrage"]}},count:1,id:"berserker_rpg:berserker_spell_book"}',
 2 : '{count:1,id:"artifacts:eternal_steak"}',
-3 : '',
+3 : '{count:1,id:"artifacts:cloud_in_a_bottle"}',
 4 : '',
 5 : '',
 6 : '',

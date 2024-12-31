@@ -13,16 +13,16 @@ glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:true
-gamma:1.0
+gamma:0.5
 graphicsMode:1
-guiScale:2
+guiScale:3
 maxFps:150
 mipmapLevels:4
 narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:8
+renderDistance:32
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","black_icons","file/Fast Better Grass.zip","file/LegacyFantasy-Lite-v1.3(NoSky)"]
-incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","customizableelytra","dungeons_arise","enchdesc","essential","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","knightlib","knightquest","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","sereneseasons","sodiumdynamiclights","spark","spectrelib","starterkit","toms_storage","veinmining","waterframes","waystones","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","black_icons","file/LegacyFantasy-Lite-v2.0(NoSky)","file/Fast Better Grass.zip"]
+incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","customizableelytra","dungeons_arise","enchdesc","essential","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","knightlib","knightquest","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","sereneseasons","sodiumdynamiclights","spark","spectrelib","starterkit","toms_storage","veinmining","waystones","yet_another_config_lib_v3"]
 lastServer:
 lang:pt_br
 chatVisibility:0
@@ -144,6 +144,7 @@ key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown
 key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
+key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.unknown
 key_chunkloaders.keys.open_screen:key.keyboard.unknown
 key_keybinds.combat_roll.roll:key.keyboard.r
@@ -173,6 +174,8 @@ key_key.jade.narrate:key.keyboard.unknown
 key_key.jade.show_details_alternative:key.keyboard.unknown
 key_key.lightweight-inventory-sorting.sort:key.keyboard.grave.accent
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_key.showmeyourskin.open_settings:key.keyboard.k
+key_key.showmeyourskin.global_toggle:key.keyboard.unknown
 key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.x
 key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_2:key.keyboard.unknown
@@ -240,4 +243,3 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
-fullscreenResolution:1366x768@100:24

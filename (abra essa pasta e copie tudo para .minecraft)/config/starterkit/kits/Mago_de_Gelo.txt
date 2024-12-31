@@ -5,7 +5,7 @@
 'offhand' : '',
 0 : '{components:{"minecraft:enchantments":{levels:{"spell_engine:spell_infinity":1}},"minecraft:repair_cost":1},count:1,id:"wizards:wand_frost"}',
 1 : '{count:1,id:"paladins:iron_claymore"}',
-2 : '{components:{"minecraft:enchantments":{levels:{"spell_engine:spell_infinity":1}},"minecraft:repair_cost":1,"spell_engine:spell_container":{pool:"wizards:frost",spell_ids:["wizards:frostbolt","wizards:frost_nova"]}},count:1,id:"wizards:frost_spell_book"}',
+2 : '{components:{"minecraft:enchantments":{levels:{"spell_engine:spell_infinity":1}},"minecraft:repair_cost":1,"spell_engine:spell_container":{pool:"wizards:frost",spell_ids:["wizards:frostbolt","wizards:frost_nova","wizards:frost_shield"]}},count:1,id:"wizards:frost_spell_book"}',
 3 : '{count:1,id:"artifacts:eternal_steak"}',
 4 : '',
 5 : '',

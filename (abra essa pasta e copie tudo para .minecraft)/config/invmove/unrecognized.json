@@ -13,7 +13,9 @@
     "net.spell_engine.spellbinding.SpellBindingScreen": true,
     "net.minecraft.class_433": true,
     "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
-    "team.creative.creativecore.common.gui.integration.ContainerScreenIntegration": true
+    "team.creative.creativecore.common.gui.integration.ContainerScreenIntegration": true,
+    "net.minecraft.class_4895": true,
+    "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true
   },
   "hideBackground": {
     "folk.sisby.antique_atlas.gui.AtlasScreen": true,
