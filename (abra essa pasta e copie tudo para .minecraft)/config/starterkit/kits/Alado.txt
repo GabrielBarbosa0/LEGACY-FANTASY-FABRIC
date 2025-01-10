@@ -4,7 +4,7 @@
 'feet' : '{count:1,id:"galosphere:sterling_boots"}',
 'offhand' : '',
 0 : '{components:{"minecraft:enchantments":{levels:{"spell_engine:spell_infinity":1}},"minecraft:repair_cost":1},count:1,id:"minecraft:iron_sword"}',
-1 : '{components:{"customizableelytra:elytra_customization":{leftWing:{components:{"minecraft:dyed_color":{rgb:9146000},"minecraft:trim":{material:"minecraft:iron",pattern:"minecraft:silence"}},id:"customizableelytra:elytra_wing"},rightWing:{components:{"minecraft:dyed_color":{rgb:9146000},"minecraft:trim":{material:"minecraft:iron",pattern:"minecraft:silence"}},id:"customizableelytra:elytra_wing"}},"minecraft:enchantments":{levels:{"minecraft:binding_curse":1}},"minecraft:repair_cost":1},count:1,id:"minecraft:elytra"}',
+1 : '{components:{"customizableelytra:elytra_customization":{leftWing:{components:{"minecraft:trim":{material:"minecraft:iron",pattern:"minecraft:silence"}},id:"customizableelytra:elytra_wing"},rightWing:{components:{"minecraft:trim":{material:"minecraft:iron",pattern:"minecraft:silence"}},id:"customizableelytra:elytra_wing"}}},count:1,id:"minecraft:elytra"}',
 2 : '{components:{"minecraft:enchantments":{levels:{"spell_engine:spell_infinity":1}},"minecraft:repair_cost":3,"spell_engine:spell_container":{pool:"elemental_wizards_rpg:wind",spell_ids:["elemental_wizards_rpg:wind_air_cutter","elemental_wizards_rpg:wind_aeroblast"]}},count:1,id:"elemental_wizards_rpg:wind_spell_book"}',
 3 : '{count:1,id:"artifacts:eternal_steak"}',
 4 : '',

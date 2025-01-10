@@ -9,8 +9,8 @@
     "cylinderFog": false
   },
   "waterConfig": {
-    "enabled": true,
-    "type": "EXPONENTIAL",
+    "enabled": false,
+    "type": "NONE",
     "linearFogStartMult": 0.25,
     "linearFogEndMult": 1.0,
     "expFogMult": 2.0,
