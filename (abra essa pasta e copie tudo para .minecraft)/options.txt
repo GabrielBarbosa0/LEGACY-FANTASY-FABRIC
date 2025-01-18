@@ -147,6 +147,7 @@ key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.unknown
 key_chunkloaders.keys.open_screen:key.keyboard.unknown
+key_chunksfadein.keybinds.toggleMod:key.keyboard.unknown
 key_keybinds.combat_roll.roll:key.keyboard.r
 key_key.configured.open_mod_list:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
