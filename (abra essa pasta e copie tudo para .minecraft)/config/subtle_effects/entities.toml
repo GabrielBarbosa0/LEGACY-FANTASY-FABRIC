@@ -1,28 +1,28 @@
 # Don't change this! Version used to track needed updates.
 version = 0
-enderPearlTrail = true
+enderPearlTrail = false
 snowballTrailDensity = 0.2
 allayMagicDensity = 0.2
 vexMagicDensity = 0.2
-sheepShearFluff = true
-improvedDragonFireballTrail = true
-commandBlockMinecartParticles = "ON"
-endCrystalParticles = true
-minecartLandingSparks = true
-slimeTrails = true
-magmaCubeTrails = true
-replaceSlimeSquishParticles = true
-replaceSpellCasterParticles = true
-ironGolemCrackParticles = true
-spectralArrowParticles = true
-wardenDeathSoulParticles = true
+sheepShearFluff = false
+improvedDragonFireballTrail = false
+commandBlockMinecartParticles = "OFF"
+endCrystalParticles = false
+minecartLandingSparks = false
+slimeTrails = false
+magmaCubeTrails = false
+replaceSlimeSquishParticles = false
+replaceSpellCasterParticles = false
+ironGolemCrackParticles = false
+spectralArrowParticles = false
+wardenDeathSoulParticles = false
 xpBottleParticlesDisplayType = "DEFAULT"
 xpBottleParticlesDensity = 10
 
 [attacked]
-chickenFeathers = true
-parrotFeathers = true
-snowGolemSnowflakes = true
+chickenFeathers = false
+parrotFeathers = false
+snowGolemSnowflakes = false
 
 [sleeping]
 playerSnoreChance = 1.0
@@ -44,7 +44,7 @@ drowningBubblesDensity = 10
 
 [humanoids.frostyBreath]
 displayType = "DEFAULT"
-alpha = 0.5
+alpha = 0.6993464
 waitTime = 60
 seasons = "DEFAULT"
 additionalBiomes = [  ]
@@ -68,9 +68,9 @@ preventWhenRaining = false
 
 [burning]
 smoke = "DEFAULT"
-flames = true
-sparks = true
-sounds = true
+flames = false
+sparks = false
+sounds = false
 
 [itemRarity]
 particlesDisplayType = "ON"
@@ -81,8 +81,8 @@ particleMaxSpeed = 1.0
 particleDensity = 1.0
 
 [explosives]
-tntUpdateSmoke = true
-tntFlames = true
-tntSparks = true
+tntUpdateSmoke = false
+tntFlames = false
+tntSparks = false
 creeperSmoke = "UPDATED"
-creeperSparks = true
+creeperSparks = false

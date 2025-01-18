@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:32
+renderDistance:16
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","black_icons","file/LegacyFantasy-Lite-v2.0(NoSky)","file/Fast Better Grass.zip"]
-incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","customizableelytra","dungeons_arise","enchdesc","essential","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","knightlib","knightquest","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","sereneseasons","sodiumdynamiclights","spark","spectrelib","starterkit","toms_storage","veinmining","waystones","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","black_icons","file/LegacyFantasy-Lite-v2.1(NoSky).zip","file/Fast Better Grass.zip"]
+incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","controllermod","customizableelytra","dungeons_arise","enchdesc","essential","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","knightlib","knightquest","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","redstonepen","sereneseasons","sodiumdynamiclights","spark","spectrelib","starterkit","subtle_effects","toms_storage","unionlib","veinmining","waystones","yet_another_config_lib_v3"]
 lastServer:
 lang:pt_br
 chatVisibility:0
@@ -192,6 +192,7 @@ key_key.travelersbackpack.sort:key.keyboard.unknown
 key_key.travelersbackpack.ability:key.keyboard.unknown
 key_key.travelersbackpack.cycle_tool:key.keyboard.unknown
 key_key.travelersbackpack.toggle_tank:key.keyboard.unknown
+key_key.unionlib.open_union_inventory:key.keyboard.u
 key_key.veinmining.activate.desc:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown

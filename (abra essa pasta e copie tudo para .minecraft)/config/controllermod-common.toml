@@ -86,7 +86,7 @@
 	#-------------------------------------------
 	#Default: true
 	#-------------------------------------------
-	"Boolean: Show Paper Doll" = true
+	"Boolean: Show Paper Doll" = false
 
 [Deadzone]
 	#

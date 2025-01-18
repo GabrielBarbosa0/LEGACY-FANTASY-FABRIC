@@ -1,11 +1,11 @@
 # Don't change this! Version used to track needed updates.
 version = 0
-redstoneBlockDust = true
+redstoneBlockDust = false
 redstoneBlockDustDensity = "DEFAULT"
 glowstoneBlockDustDisplayType = "ON"
 glowstoneBlockDustDensity = "DEFAULT"
 beehivesHaveSleepingZs = true
-fallingBlockDust = true
+fallingBlockDust = false
 fallingBlockDustBlocks = [
     "minecraft:sand",
     "minecraft:red_sand",
@@ -29,58 +29,58 @@ fallingBlockDustBlocks = [
 ]
 fallingBlockDustDistance = 0
 torchflowerSmoke = "DEFAULT"
-torchflowerFlames = true
-dragonEggParticles = true
+torchflowerFlames = false
+dragonEggParticles = false
 replaceEndPortalSmoke = true
-pumpkinCarvedParticles = true
-anvilBreakParticles = true
-anvilUseParticles = true
-grindstoneUseParticles = true
+pumpkinCarvedParticles = false
+anvilBreakParticles = false
+anvilUseParticles = false
+grindstoneUseParticles = false
 commandBlockParticles = "ON"
-slimeBlockBounceSounds = true
-beaconParticlesDisplayType = "ON"
-compostingParticles = true
-respawnAnchorParticles = true
-beehiveShearParticles = true
+slimeBlockBounceSounds = false
+beaconParticlesDisplayType = "OFF"
+compostingParticles = false
+respawnAnchorParticles = false
+beehiveShearParticles = false
 endPortalParticles = true
-leavesDecayEffects = true
+leavesDecayEffects = false
 farmlandDestroyEffects = true
-amethystSparkleDisplayType = "ON"
-amethystSparkleSounds = true
-floweringAzaleaPetals = true
-sculkBlockSculkDust = true
-sculkVeinSculkDust = true
-sculkShriekerDestroySouls = true
-sculkCatalystDestroySouls = true
-calibratedSculkSensorAmethystSparkle = true
-campfireSizzlingSounds = true
+amethystSparkleDisplayType = "OFF"
+amethystSparkleSounds = false
+floweringAzaleaPetals = false
+sculkBlockSculkDust = false
+sculkVeinSculkDust = false
+sculkShriekerDestroySouls = false
+sculkCatalystDestroySouls = false
+calibratedSculkSensorAmethystSparkle = false
+campfireSizzlingSounds = false
 campfireSizzlingSoundVolume = 0.5
 vegetationFirefliesDensity = 30
 vegetationFirefliesSpawnType = "FLOWERS_ONLY"
 
 [sparks]
-removeVanillaCampfireSparks = true
-candleSparks = true
-furnaceSparks = true
-fireSparks = true
-campfireSparks = true
-torchSparks = true
+removeVanillaCampfireSparks = false
+candleSparks = false
+furnaceSparks = false
+fireSparks = false
+campfireSparks = false
+torchSparks = false
 lanternSparksDensity = 5
 lavaCauldronSparks = true
-lavaSparks = "ON"
+lavaSparks = "OFF"
 
 [updatedSmoke]
 candleSmoke = true
 furnaceSmoke = true
 fireSmoke = true
-torchSmoke = true
+torchSmoke = false
 lavaSparkSmoke = true
 campfireDowseSmoke = true
 
 [steam]
-lavaFizzSteam = true
-replaceCampfireFoodSmoke = true
-spongeDryingOutSteam = true
+lavaFizzSteam = false
+replaceCampfireFoodSmoke = false
+spongeDryingOutSteam = false
 spawnLogic = "BRIGHTNESS"
 steamingWater = false
 boilingWater = false
