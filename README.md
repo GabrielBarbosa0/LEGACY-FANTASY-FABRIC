@@ -56,6 +56,7 @@
 
 6. **Finalização**:
    - Após realizar as etapas acima, inicie o Minecraft com um perfil Fabric v0.16.10 ou superior.
+   - https://fabricmc.net/
 
 Se tudo foi feito corretamente, o modpack estará instalado e pronto para uso. Aproveite sua experiência no Minecraft com os novos mods e funcionalidades!
 
