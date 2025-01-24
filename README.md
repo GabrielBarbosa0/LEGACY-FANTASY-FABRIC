@@ -9,7 +9,7 @@
 - ✔️ **Ampliação do Nether**: Experimente um Nether ampliado e mais perigoso, com novos desafios e recompensas.
 - ✔️ **Ampliação do The End**: Experimente um The End reformulado e mais desafiador, com novos perigos e recompensas.
 - ✔️ **Móveis Diversos**: Adicione uma variedade de móveis ao seu mundo, criando ambientes mais ricos e detalhados.
-- ✔️**Atlas Antigo**: Navegue pelo seu mundo com o Antique Atlas, uma ferramenta de navegação única e estética.
+- ✔️ **Atlas Antigo**: Navegue pelo seu mundo com o Antique Atlas, uma ferramenta de navegação única e estética.
 - ✔️ **Mods de Qualidade de Vida (QOL)**: Como o AppleSkin para mostrar informações detalhadas sobre a alimentação.
 - ✔️ **Classes de RPG**: Jogue como arqueiro, berserker, magos e mais, com habilidades únicas e estilos de jogo distintos.
 - ✔️ **Artefatos e Itens Mágicos**: Descubra artefatos poderosos que oferecem habilidades e bônus especiais.
@@ -21,6 +21,13 @@
 - ✔️ **Mineração e Construção**: Ferramentas que facilitam a mineração e construção, como o FallingTree, VeinMining e Axiom.
 - ✔️ **Melhorias na Interface**: HUDs personalizáveis e informações detalhadas com o Jade e Inventory HUD+.
 - ✔️ **Mods de Estética**: Adicione efeitos visuais, como folhas caindo e iluminação dinâmica, para um mundo mais vibrante.
+- ✔️ **Nova Dimensão: Eternal Starlight**: Descubra uma dimensão totalmente nova, repleta de desafios, criaturas únicas e recompensas extraordinárias.
+- ✔️ **Novo Sistema de Estatística**: Acompanhe seus avanços e conquistas com um sistema de estatísticas aprimorado.
+- ✔️ **Melhoria no Carregamento de Chunks**: Desfrute de tempos de carregamento mais rápidos e uma experiência de jogo mais fluida.
+- ✔️ **Suporte a Controle**: Jogue usando controles com suporte integrado e configurações ajustáveis.
+- ✔️ **Batalha Reformulada com o Ender Dragon**: Enfrente o Ender Dragon em uma batalha emocionante e renovada.
+- ✔️ **Sistema de Chat de Voz Integrado**: Comunique-se facilmente com outros jogadores através de um chat de voz nativo.
+
 
 **Prepare-se para mergulhar em um mundo de aventuras épicas, onde cada canto esconde segredos emocionantes e desafios inesperados. Baixe agora o modpack Legacy Fantasy e comece sua jornada hoje mesmo!**
 
