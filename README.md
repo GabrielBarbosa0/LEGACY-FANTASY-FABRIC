@@ -6,12 +6,12 @@
 
 ## Principais Recursos:
 
-✔️ **Ampliação do Nether**: Experimente um Nether ampliado e mais perigoso, com novos desafios e recompensas.
-✔️ **Móveis Diversos**: Adicione uma variedade de móveis ao seu mundo, criando ambientes mais ricos e detalhados.
-✔️**Atlas Antigo**: Navegue pelo seu mundo com o Antique Atlas, uma ferramenta de navegação única e estética.
-✔️ **Mods de Qualidade de Vida (QOL)**: Como o AppleSkin para mostrar informações detalhadas sobre a alimentação.
-✔️ **Classes de RPG**: Jogue como arqueiro, berserker, mago elemental e mais, com habilidades únicas e estilos de jogo distintos.
-✔️ **Artefatos e Itens Mágicos**: Descubra artefatos poderosos que oferecem habilidades e bônus especiais.
+- ✔️ **Ampliação do Nether**: Experimente um Nether ampliado e mais perigoso, com novos desafios e recompensas.
+- ✔️ **Móveis Diversos**: Adicione uma variedade de móveis ao seu mundo, criando ambientes mais ricos e detalhados.
+- ✔️**Atlas Antigo**: Navegue pelo seu mundo com o Antique Atlas, uma ferramenta de navegação única e estética.
+- ✔️ **Mods de Qualidade de Vida (QOL)**: Como o AppleSkin para mostrar informações detalhadas sobre a alimentação.
+- ✔️ **Classes de RPG**: Jogue como arqueiro, berserker, mago elemental e mais, com habilidades únicas e estilos de jogo distintos.
+- ✔️ **Artefatos e Itens Mágicos**: Descubra artefatos poderosos que oferecem habilidades e bônus especiais.
 - ✔️ **Combate Melhorado**: Melhore suas batalhas com sistemas de combate mais dinâmicos e envolventes.
 - ✔️ **Exploração e Aventuras**: Encontre novas estruturas, masmorras e bosses épicos espalhados pelo mundo.
 - ✔️ **Mods de Performance**: Incluindo Lithium e Sodium para melhorar o desempenho do jogo.
