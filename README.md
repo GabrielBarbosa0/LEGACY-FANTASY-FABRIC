@@ -25,3 +25,44 @@
 
 **Disponível para Minecraft 1.21.1 Fabric**
 
+## Instruções de Instalação 
+
+1. **Arquivos necessários**:
+   - Pastas: `config`, `mods`, `resourcepacks`, `shaderpacks`
+   - Arquivo: `options.txt`
+
+2. **Localização dos arquivos**:
+   Todos os arquivos acima devem ser copiados e colados na pasta `.minecraft` do seu computador.
+
+   > **Nota**: A pasta `.minecraft` geralmente está localizada em:
+   > - **Windows**: `C:\Usuários\<seu_usuário>\AppData\Roaming\.minecraft`
+   > - **Mac**: `~/Library/Application Support/minecraft`
+   > - **Linux**: `~/.minecraft`
+
+3. **Remova mods antigos**:
+   - Caso você já tenha outros mods instalados:
+     1. Exclua todos os arquivos da pasta `mods`.
+     2. Remova o arquivo `options.txt` antigo.
+
+4. **Configuração correta**:
+   - **Arquivo `options.txt`**: Este arquivo contém os controles pré-configurados do modpack. Certifique-se de substituir o arquivo antigo para que os controles estejam mapeados corretamente.
+   - **Pasta `config`**: Esta pasta contém as configurações necessárias para os mods e classes RPG do modpack. Por isso:
+     1. Exclua a pasta `config` antiga da sua instalação do Minecraft.
+     2. Caso prefira, mova a pasta antiga para outro local do seu computador como backup.
+
+5. **Instale o modpack**:
+   - Copie as pastas `config`, `mods`, `resourcepacks`, `shaderpacks` e o arquivo `options.txt` para a pasta `.minecraft`.
+
+6. **Finalização**:
+   - Após realizar as etapas acima, inicie o Minecraft com o perfil correto do Fabric configurado para sua versão.
+
+Se tudo foi feito corretamente, o modpack estará instalado e pronto para uso. Aproveite sua experiência no Minecraft com os novos mods e funcionalidades!
+
+---
+
+## Observação importante
+Se encontrar algum problema durante a instalação ou ao iniciar o jogo, revise cuidadosamente cada etapa para garantir que nenhum arquivo ou pasta tenha sido omitido.
+
+---
+
+
