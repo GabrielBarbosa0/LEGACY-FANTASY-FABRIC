@@ -15,11 +15,14 @@
     "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
     "team.creative.creativecore.common.gui.integration.ContainerScreenIntegration": true,
     "net.minecraft.class_4895": true,
-    "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true
+    "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true,
+    "cn.leolezury.eternalstarlight.common.client.gui.screen.BookScreen": true,
+    "fuzs.enchantinginfuser.client.gui.screens.inventory.InfuserScreen": true
   },
   "hideBackground": {
     "folk.sisby.antique_atlas.gui.AtlasScreen": true,
     "com.moulberry.axiom.screen.EditMarkerScreen": true,
-    "com.natamus.starterkit_common_fabric.inventory.StarterKitInventoryScreen": true
+    "com.natamus.starterkit_common_fabric.inventory.StarterKitInventoryScreen": true,
+    "cn.leolezury.eternalstarlight.common.client.gui.screen.BookScreen": true
   }
 }

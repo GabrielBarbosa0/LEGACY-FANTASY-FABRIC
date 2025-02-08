@@ -65,8 +65,8 @@ furnaceSparks = false
 fireSparks = false
 campfireSparks = false
 torchSparks = false
-lanternSparksDensity = 5
-lavaCauldronSparks = true
+lanternSparksDensity = 0
+lavaCauldronSparks = false
 lavaSparks = "OFF"
 
 [updatedSmoke]

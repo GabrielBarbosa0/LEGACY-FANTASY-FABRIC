@@ -1,7 +1,7 @@
 {
   "inv_toggle": false,
   "pot_toggle": true,
-  "arm_toggle": true,
+  "arm_toggle": false,
   "helm_x": 103,
   "helm_y": 54,
   "chest_x": 103,

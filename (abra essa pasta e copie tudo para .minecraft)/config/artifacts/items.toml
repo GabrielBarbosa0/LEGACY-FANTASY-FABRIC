@@ -262,7 +262,7 @@
 	cooldown = 0
 	#The probability that the Shock Pendant strikes an attacking entity with lightning
 	#Range: 0.0 ~ 1.0
-	strikeChance = 0.25
+	strikeChance = 1.0
 
 [snorkel]
 	#Whether the Snorkel's water breathing effect depletes when underwater
