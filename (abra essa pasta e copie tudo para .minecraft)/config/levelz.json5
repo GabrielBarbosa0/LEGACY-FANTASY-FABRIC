@@ -111,8 +111,8 @@
 	"lockedBlockInfoPosX": 0,
 	// client only
 	"lockedBlockInfoPosY": 0,
-	"restrictions": true,
-	"defaultRestrictions": true,
+	"restrictions": false,
+	"defaultRestrictions": false,
 	// Remember to name your datapack json differently than default
 	"defaultSkills": true
 }

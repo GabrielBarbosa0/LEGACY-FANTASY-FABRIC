@@ -1,0 +1,21 @@
+{
+	// Count for how many jobs can a player have at a time
+	"employedJobs": 2,
+	// Delay to employ new job
+	"jobChangeTime": 24000,
+	// Reset current job lvl xp when died
+	"resetCurrentJobXP": true,
+	"defaultJobs": true,
+	// Only for Devs, client only
+	"devMode": false,
+	// XP equation: lvl^exponent * multiplicator + base
+	"jobXPBaseCost": 100,
+	"jobXPCostMultiplicator": 0.5,
+	"jobXPExponent": 2,
+	"jobXPMaxCost": 0,
+	"xpMultiplicator": 3,
+	"levelZXPMultiplicator": 3,
+	// Numismatic Overhaul compat lvl * multiplicator
+	"moneyMultiplicator": 20,
+	"allowMaxLvlProgress": false
+}

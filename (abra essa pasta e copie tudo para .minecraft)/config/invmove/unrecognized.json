@@ -17,12 +17,18 @@
     "net.minecraft.class_4895": true,
     "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true,
     "cn.leolezury.eternalstarlight.common.client.gui.screen.BookScreen": true,
-    "fuzs.enchantinginfuser.client.gui.screens.inventory.InfuserScreen": true
+    "fuzs.enchantinginfuser.client.gui.screens.inventory.InfuserScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneEditScreen": true,
+    "com.supermartijn642.core.gui.WidgetScreen": true,
+    "net.minecraft.class_7744": true,
+    "net.jobsaddon.screen.JobScreen": true,
+    "net.rewardz.screen.RewardsScreen": true
   },
   "hideBackground": {
     "folk.sisby.antique_atlas.gui.AtlasScreen": true,
     "com.moulberry.axiom.screen.EditMarkerScreen": true,
     "com.natamus.starterkit_common_fabric.inventory.StarterKitInventoryScreen": true,
-    "cn.leolezury.eternalstarlight.common.client.gui.screen.BookScreen": true
+    "cn.leolezury.eternalstarlight.common.client.gui.screen.BookScreen": true,
+    "com.supermartijn642.core.gui.WidgetScreen": true
   }
 }

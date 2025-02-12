@@ -1,0 +1,6 @@
+{
+	"posX": 127,
+	"posY": 61,
+	// Use keybind instead - by default unset
+	"inventoryButton": true
+}

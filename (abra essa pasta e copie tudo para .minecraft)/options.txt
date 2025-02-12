@@ -14,7 +14,7 @@ glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:true
 gamma:0.5
-graphicsMode:1
+graphicsMode:0
 guiScale:3
 maxFps:150
 mipmapLevels:4
@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","black_icons","file/LegacyFantasy-Lite-v2.1(NoSky).zip","file/Fast Better Grass.zip"]
-incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","controllermod","customizableelytra","dungeons_arise","enchdesc","essential","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","knightlib","knightquest","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","redstonepen","sereneseasons","sodiumdynamiclights","spark","spectrelib","starterkit","subtle_effects","toms_storage","unionlib","veinmining","waystones","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","black_icons","file/LegacyFantasy-Lite-v2.2(NoSky).zip","file/Fast Better Grass.zip"]
+incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","controllermod","customizableelytra","dungeons_arise","enchdesc","essential","eternal_starlight","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","knightlib","knightquest","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","redstonepen","sereneseasons","sodiumdynamiclights","spark","spectrelib","starterkit","toms_storage","unionlib","veinmining","waterframes","waystones","yet_another_config_lib_v3"]
 lastServer:
 lang:pt_br
 chatVisibility:0
@@ -150,7 +150,19 @@ key_chunkloaders.keys.open_screen:key.keyboard.unknown
 key_chunksfadein.keybinds.toggleMod:key.keyboard.unknown
 key_keybinds.combat_roll.roll:key.keyboard.r
 key_key.configured.open_mod_list:key.keyboard.unknown
+key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.i
+key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
+key_key.do_a_barrel_roll.open_config:key.keyboard.unknown
+key_key.do_a_barrel_roll.pitch_up:key.keyboard.unknown
+key_key.do_a_barrel_roll.pitch_down:key.keyboard.unknown
+key_key.do_a_barrel_roll.yaw_left:key.keyboard.a
+key_key.do_a_barrel_roll.yaw_right:key.keyboard.d
+key_key.do_a_barrel_roll.roll_left:key.keyboard.unknown
+key_key.do_a_barrel_roll.roll_right:key.keyboard.unknown
+key_key.do_a_barrel_roll.thrust_forward:key.keyboard.w
+key_key.do_a_barrel_roll.thrust_backward:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.eternal_starlight.switch_crest:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_fpsreducer.key.openGui:key.keyboard.keypad.9
@@ -173,6 +185,7 @@ key_key.jade.show_recipes:key.keyboard.unknown
 key_key.jade.show_uses:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
 key_key.jade.show_details_alternative:key.keyboard.unknown
+key_key.levelz.openskillscreen:key.keyboard.unknown
 key_key.lightweight-inventory-sorting.sort:key.keyboard.grave.accent
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.showmeyourskin.open_settings:key.keyboard.k
@@ -229,7 +242,7 @@ key_keybind.name.EMOTE_SLOT_7:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_8:key.keyboard.unknown
 key_keybind.name.ZOOM:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.3028169014084507
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
