@@ -1,5 +1,3 @@
-<!-- <img src="https://raw.githubusercontent.com/GabrielBarbosa0/EPIC-FANTASY-MODPACK/master/image/imagem-repositorio-github.png"/>-->
-
 ### Legacy Fantasy Modpack para Minecraft 1.21.1 (Fabric)
 
 **Uma jornada épica que transforma sua experiência no Minecraft em algo verdadeiramente mágico e fantástico. Prepare-se para explorar um mundo vasto e cheio de surpresas com uma variedade de recursos emocionantes.**
@@ -28,12 +26,30 @@
 - ✔️ **Batalha Reformulada com o Ender Dragon**: Enfrente o Ender Dragon em uma batalha emocionante e renovada.
 - ✔️ **Sistema de Chat de Voz Integrado**: Comunique-se facilmente com outros jogadores através de um chat de voz nativo.
 
-
 **Prepare-se para mergulhar em um mundo de aventuras épicas, onde cada canto esconde segredos emocionantes e desafios inesperados. Baixe agora o modpack Legacy Fantasy e comece sua jornada hoje mesmo!**
 
 **Disponível para Minecraft 1.21.1 Fabric**
 
-## Instruções de Instalação 
+---
+
+## 📥 Instalação do Modpack
+
+### Opções de Instalação
+
+Você pode instalar o modpack de três formas diferentes:
+
+1. **Instalação Automática:**
+   - Utilize o instalador `.py` (Python) ou o `.bat` (Windows) para copiar automaticamente os arquivos para a pasta `.minecraft`.
+
+2. **Instalação Manual:**
+   - Copie e cole os arquivos do modpack na pasta `.minecraft` do seu computador.
+
+3. **Escolha sua própria pasta:**
+   - Se preferir, copie os arquivos para qualquer outra pasta e ajuste as configurações do Minecraft para rodar o modpack a partir dela.
+
+---
+
+### 🛠 Passo a Passo da Instalação Manual
 
 1. **Arquivos necessários**:
    - Pastas: `config`, `mods`, `resourcepacks`, `shaderpacks`
@@ -69,9 +85,5 @@ Se tudo foi feito corretamente, o modpack estará instalado e pronto para uso. A
 
 ---
 
-## Observação importante
+## ⚠️ Observação Importante
 Se encontrar algum problema durante a instalação ou ao iniciar o jogo, revise cuidadosamente cada etapa para garantir que nenhum arquivo ou pasta tenha sido omitido.
-
----
-
-
