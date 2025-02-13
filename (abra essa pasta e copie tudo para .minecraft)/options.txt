@@ -12,17 +12,17 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:true
+fullscreen:false
 gamma:0.5
 graphicsMode:0
 guiScale:3
-maxFps:150
+maxFps:60
 mipmapLevels:4
 narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:16
+renderDistance:12
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
@@ -49,7 +49,7 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","black_icons","file/LegacyFantasy-Lite-v2.2(NoSky).zip","file/Fast Better Grass.zip"]
-incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","controllermod","customizableelytra","dungeons_arise","enchdesc","essential","eternal_starlight","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","knightlib","knightquest","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","redstonepen","sereneseasons","sodiumdynamiclights","spark","spectrelib","starterkit","toms_storage","unionlib","veinmining","waterframes","waystones","yet_another_config_lib_v3"]
+incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","controllermod","customizableelytra","do_a_barrel_roll","dungeons_arise","enchdesc","essential","eternal_starlight","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","knightlib","knightquest","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","redstonepen","sereneseasons","sodiumdynamiclights","spark","spectrelib","starterkit","toms_storage","unionlib","veinmining","waterframes","waystones","yet_another_config_lib_v3"]
 lastServer:
 lang:pt_br
 chatVisibility:0
@@ -84,6 +84,7 @@ showAutosaveIndicator:true
 allowServerListing:true
 onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
+debugifyTelemetry:0
 telemetryOptInExtra:false
 onboardAccessibility:false
 menuBackgroundBlurriness:5

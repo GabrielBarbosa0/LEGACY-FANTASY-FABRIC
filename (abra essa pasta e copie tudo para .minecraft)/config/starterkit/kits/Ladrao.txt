@@ -39,4 +39,4 @@
 33 : '',
 34 : '',
 35 : '',
-'effects' : 'minecraft:haste;lvl:1;duration:33',
+'effects' : '',
