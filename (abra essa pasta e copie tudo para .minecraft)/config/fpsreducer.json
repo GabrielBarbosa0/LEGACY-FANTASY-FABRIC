@@ -72,7 +72,7 @@
   "allowOneFps": false,
   "debugLog": false,
   "waitingTime": 0,
-  "idleFps": 10,
+  "idleFps": 29,
   "guiScreenFps": 0,
   "noActFps": 0,
   "detectMoving": 1,
