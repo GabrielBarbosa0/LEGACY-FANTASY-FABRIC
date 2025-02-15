@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","black_icons","file/LegacyFantasy-Lite-v2.2(NoSky).zip","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","black_icons","file/Fast Better Grass.zip","file/LegacyFantasy-Lite-v2.3(NoSky).zip"]
 incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","controllermod","customizableelytra","do_a_barrel_roll","dungeons_arise","enchdesc","essential","eternal_starlight","forgivingvoid","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","knightlib","knightquest","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","redstonepen","scribble","sereneseasons","sodiumdynamiclights","spark","spectrelib","starterkit","toms_storage","unionlib","veinmining","waterframes","waystones","yet_another_config_lib_v3"]
 lastServer:
 lang:pt_br
@@ -104,7 +104,7 @@ key_key.playerlist:key.keyboard.tab
 key_key.pickItem:key.mouse.middle
 key_key.command:key.keyboard.slash
 key_key.socialInteractions:key.keyboard.p
-key_key.screenshot:key.keyboard.f2
+key_key.screenshot:key.keyboard.unknown
 key_key.togglePerspective:key.keyboard.f5
 key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
