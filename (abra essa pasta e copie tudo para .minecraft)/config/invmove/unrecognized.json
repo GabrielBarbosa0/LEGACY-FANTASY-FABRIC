@@ -22,7 +22,8 @@
     "com.supermartijn642.core.gui.WidgetScreen": true,
     "net.minecraft.class_7744": true,
     "net.jobsaddon.screen.JobScreen": true,
-    "net.rewardz.screen.RewardsScreen": true
+    "net.rewardz.screen.RewardsScreen": true,
+    "com.tom.storagemod.screen.CraftingTerminalScreen": true
   },
   "hideBackground": {
     "folk.sisby.antique_atlas.gui.AtlasScreen": true,
