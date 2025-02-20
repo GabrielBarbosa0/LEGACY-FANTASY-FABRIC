@@ -3,7 +3,7 @@ ao:true
 biomeBlendRadius:1
 enableVsync:false
 entityDistanceScaling:1.0
-entityShadows:true
+entityShadows:false
 forceUnicodeFont:false
 japaneseGlyphVariants:false
 fov:0.0
@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:12
+renderDistance:24
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","black_icons","file/Fast Better Grass.zip","file/LegacyFantasy-Lite-v2.3(NoSky).zip"]
-incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","controllermod","customizableelytra","do_a_barrel_roll","dungeons_arise","enchdesc","essential","eternal_starlight","forgivingvoid","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","knightlib","knightquest","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","redstonepen","scribble","sereneseasons","sodiumdynamiclights","spark","spectrelib","starterkit","toms_storage","unionlib","veinmining","waterframes","waystones","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","black_icons","file/LegacyFantasy-Lite-v2.3(NoSky).zip","file/Fast Better Grass.zip"]
+incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","customizableelytra","do_a_barrel_roll","dungeons_arise","enchdesc","essential","eternal_starlight","forgivingvoid","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","knightlib","knightquest","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","scribble","sereneseasons","sodiumdynamiclights","sodiumextras","spark","spectrelib","starterkit","toms_storage","unionlib","veinmining","waterframes","waystones","yet_another_config_lib_v3"]
 lastServer:
 lang:pt_br
 chatVisibility:0
