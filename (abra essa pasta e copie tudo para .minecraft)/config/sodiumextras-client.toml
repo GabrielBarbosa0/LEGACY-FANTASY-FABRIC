@@ -2,7 +2,7 @@
 		#Set Fullscreen mode
 		#Borderless let you change between screens more faster and move your mouse across monitors
 		#Allowed Values: WINDOWED, BORDERLESS, FULLSCREEN
-		fullscreen = "FULLSCREEN"
+		fullscreen = "WINDOWED"
 		#Configure FPS Display mode
 		#Complete mode gives you min FPS count and average count
 		#Allowed Values: OFF, SIMPLE, ADVANCED
@@ -39,7 +39,7 @@
 			#Configure Darkness Mode
 			#Each config changes what is considered 'true darkness'
 			#Allowed Values: PITCH_BLACK, TOTAL_DARKNESS, DARK, DIM, OFF
-			mode = "DARK"
+			mode = "OFF"
 			#Toggle Darkness on Overworld dimension
 			enableOnOverworld = true
 			#Toggle Darkness on Nether dimension
