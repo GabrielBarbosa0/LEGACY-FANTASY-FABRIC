@@ -49,7 +49,7 @@ Você pode instalar o modpack de três formas diferentes:
 
 ---
 
-### 🛠 Passo a Passo da Instalação Manual
+### 🛠 Passo a Passo da Instalação
 
 1. **Arquivos necessários**:
    - Pastas: `config`, `mods`, `resourcepacks`, `shaderpacks`
