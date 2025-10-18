@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","black_icons","file/LegacyFantasy-Lite-v2.3(NoSky).zip","file/Fast Better Grass.zip"]
-incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bookshelf","cardiac","carryon","charmofundying","configuration","customizableelytra","do_a_barrel_roll","dungeons_arise","enchdesc","essential","eternal_starlight","forgivingvoid","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","knightlib","knightquest","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","scribble","sereneseasons","sodiumdynamiclights","sodiumextras","spark","spectrelib","starterkit","toms_storage","unionlib","veinmining","waterframes","waystones","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","moonlight:mods_dynamic_assets","black_icons","file/Fast Better Grass.zip"]
+incompatibleResourcePacks:["appleskin","armoroftheages","balm-fabric","betteradvancements","bettervillage","bookshelf","cardiac","charmofundying","configuration","customizableelytra","do_a_barrel_roll","dungeons_arise","enchdesc","essential","eternal_starlight","forgivingvoid","framework","immersiveui","jade","jei","jeresources","justenoughprofessions","knightlib","knightquest","modernfix","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernswoodlandmansionreplacement","mru","polymorph","scribble","sereneseasons","sodiumdynamiclights","sodiumextras","spark","spectrelib","starterkit","toms_storage","unionlib","veinmining","waterframes","waystones","yet_another_config_lib_v3"]
 lastServer:
 lang:pt_br
 chatVisibility:0
@@ -113,15 +113,15 @@ key_key.swapOffhand:key.keyboard.f
 key_key.saveToolbarActivator:key.keyboard.c
 key_key.loadToolbarActivator:key.keyboard.x
 key_key.advancements:key.keyboard.l
-key_key.hotbar.1:key.keyboard.1
-key_key.hotbar.2:key.keyboard.2
-key_key.hotbar.3:key.keyboard.3
-key_key.hotbar.4:key.keyboard.4
-key_key.hotbar.5:key.keyboard.5
-key_key.hotbar.6:key.keyboard.6
-key_key.hotbar.7:key.keyboard.7
-key_key.hotbar.8:key.keyboard.8
-key_key.hotbar.9:key.keyboard.9
+key_key.hotbar.1:key.keyboard.unknown
+key_key.hotbar.2:key.keyboard.unknown
+key_key.hotbar.3:key.keyboard.unknown
+key_key.hotbar.4:key.keyboard.unknown
+key_key.hotbar.5:key.keyboard.unknown
+key_key.hotbar.6:key.keyboard.unknown
+key_key.hotbar.7:key.keyboard.unknown
+key_key.hotbar.8:key.keyboard.unknown
+key_key.hotbar.9:key.keyboard.unknown
 key_axiom.keybind.context:key.keyboard.left.alt
 key_axiom.keybind.builder_tool_slot:key.keyboard.0
 key_axiom.keybind.orbit_camera:key.keyboard.unknown
@@ -146,7 +146,6 @@ key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
-key_key.carry.desc:key.keyboard.unknown
 key_chunkloaders.keys.open_screen:key.keyboard.unknown
 key_chunksfadein.keybinds.toggleMod:key.keyboard.unknown
 key_keybinds.combat_roll.roll:key.keyboard.r
@@ -171,6 +170,10 @@ key_fpsreducer.key.openGui:key.keyboard.keypad.9
 key_fpsreducer.key.forceIdle:key.keyboard.unknown
 key_key.heywiki.open:key.keyboard.b
 key_key.heywiki.open_search:key.keyboard.unknown
+key_key.dragon_fireAttack:key.keyboard.1
+key_key.dragon_strike:key.keyboard.3
+key_key.dragon_down:key.keyboard.2
+key_key.dragon_change_view:key.keyboard.f7
 key_key.inventoryhud.toggle:key.keyboard.unknown
 key_key.inventoryhud.openconfig:key.keyboard.unknown
 key_key.inventoryhud.togglepot:key.keyboard.unknown

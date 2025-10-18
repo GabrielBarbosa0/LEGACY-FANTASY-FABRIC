@@ -1,0 +1,16 @@
+filename = 'Jupiter-2.2.2-fabric.jar'
+name = 'Jupiter'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '00ab44f92b0ef4dcecfa1f0c4d510e230aef01f82904c9604a72b5f1f18e7bef050d21229fd0ce1ef16ae038c22995cae1c6bcd2a8e6fb75edd794acc954c401'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XbiLGMMU/versions/sitr75nX/Jupiter-2.2.2-fabric.jar'
+
+[update.modrinth]
+mod-id = 'XbiLGMMU'
+version = 'sitr75nX'
