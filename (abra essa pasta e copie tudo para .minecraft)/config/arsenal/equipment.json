@@ -1,0 +1,285 @@
+{
+  "weapons": {
+    "unique_claymore_1": {
+      "attack_damage": 13.0,
+      "attack_speed": -3.0,
+      "attributes": []
+    },
+    "unique_claymore_2": {
+      "attack_damage": 13.0,
+      "attack_speed": -3.0,
+      "attributes": []
+    },
+    "unique_claymore_sw": {
+      "attack_damage": 13.0,
+      "attack_speed": -3.0,
+      "attributes": []
+    },
+    "unique_staff_damage_1": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "attribute": "spell_power:arcane",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        },
+        {
+          "attribute": "spell_power:frost",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "unique_staff_damage_2": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "attribute": "spell_power:arcane",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        },
+        {
+          "attribute": "spell_power:fire",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "unique_staff_damage_3": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "attribute": "spell_power:arcane",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        },
+        {
+          "attribute": "spell_power:fire",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "unique_staff_damage_4": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "attribute": "spell_power:fire",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        },
+        {
+          "attribute": "spell_power:frost",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "unique_staff_damage_5": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "attribute": "spell_power:arcane",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        },
+        {
+          "attribute": "spell_power:frost",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "unique_staff_damage_6": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "attribute": "spell_power:arcane",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        },
+        {
+          "attribute": "spell_power:frost",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "unique_staff_damage_sw": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "attribute": "spell_power:arcane",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        },
+        {
+          "attribute": "spell_power:fire",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        },
+        {
+          "attribute": "spell_power:frost",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "unique_staff_heal_1": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "attribute": "spell_power:arcane",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        },
+        {
+          "attribute": "spell_power:healing",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "unique_staff_heal_2": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "attribute": "spell_power:healing",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "unique_staff_heal_sw": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "attribute": "spell_power:healing",
+          "value": 7.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "unique_spear_1": {
+      "attack_damage": 8.0,
+      "attack_speed": -2.6,
+      "attributes": []
+    },
+    "unique_spear_2": {
+      "attack_damage": 8.0,
+      "attack_speed": -2.6,
+      "attributes": []
+    },
+    "unique_spear_sw": {
+      "attack_damage": 8.0,
+      "attack_speed": -2.6,
+      "attributes": []
+    },
+    "unique_dagger_1": {
+      "attack_damage": 5.5,
+      "attack_speed": -1.6,
+      "attributes": []
+    },
+    "unique_dagger_2": {
+      "attack_damage": 5.5,
+      "attack_speed": -1.6,
+      "attributes": []
+    },
+    "unique_dagger_sw": {
+      "attack_damage": 5.5,
+      "attack_speed": -1.6,
+      "attributes": []
+    },
+    "unique_sickle_1": {
+      "attack_damage": 6.8,
+      "attack_speed": -2.0,
+      "attributes": []
+    },
+    "unique_sickle_2": {
+      "attack_damage": 6.8,
+      "attack_speed": -2.0,
+      "attributes": []
+    },
+    "unique_sickle_sw": {
+      "attack_damage": 6.8,
+      "attack_speed": -2.0,
+      "attributes": []
+    },
+    "unique_longsword_sw": {
+      "attack_damage": 8.0,
+      "attack_speed": -2.4,
+      "attributes": []
+    },
+    "unique_double_axe_1": {
+      "attack_damage": 11.0,
+      "attack_speed": -2.8,
+      "attributes": []
+    },
+    "unique_double_axe_2": {
+      "attack_damage": 11.0,
+      "attack_speed": -2.8,
+      "attributes": []
+    },
+    "unique_double_axe_sw": {
+      "attack_damage": 11.0,
+      "attack_speed": -2.8,
+      "attributes": []
+    },
+    "unique_glaive_1": {
+      "attack_damage": 9.3,
+      "attack_speed": -2.6,
+      "attributes": []
+    },
+    "unique_glaive_2": {
+      "attack_damage": 9.3,
+      "attack_speed": -2.6,
+      "attributes": []
+    },
+    "unique_glaive_sw": {
+      "attack_damage": 9.3,
+      "attack_speed": -2.6,
+      "attributes": []
+    },
+    "unique_hammer_1": {
+      "attack_damage": 16.0,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "unique_hammer_2": {
+      "attack_damage": 16.0,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "unique_hammer_sw": {
+      "attack_damage": 16.0,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "unique_mace_1": {
+      "attack_damage": 11.0,
+      "attack_speed": -2.8,
+      "attributes": []
+    },
+    "unique_mace_2": {
+      "attack_damage": 11.0,
+      "attack_speed": -2.8,
+      "attributes": []
+    },
+    "unique_mace_sw": {
+      "attack_damage": 11.0,
+      "attack_speed": -2.8,
+      "attributes": []
+    }
+  },
+  "armor_sets": {}
+}

@@ -1,0 +1,49 @@
+{
+  "shields": {
+    "arsenal:unique_shield_1": {
+      "durability": 4032,
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.armor_toughness",
+          "value": 2.0,
+          "operation": "ADD_VALUE"
+        },
+        {
+          "attribute": "generic.max_health",
+          "value": 6.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "arsenal:unique_shield_2": {
+      "durability": 4032,
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.armor_toughness",
+          "value": 2.0,
+          "operation": "ADD_VALUE"
+        },
+        {
+          "attribute": "generic.max_health",
+          "value": 6.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "arsenal:unique_shield_sw": {
+      "durability": 4032,
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.armor_toughness",
+          "value": 2.0,
+          "operation": "ADD_VALUE"
+        },
+        {
+          "attribute": "generic.max_health",
+          "value": 6.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    }
+  }
+}

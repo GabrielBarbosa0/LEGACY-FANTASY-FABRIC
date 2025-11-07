@@ -1,28 +1,37 @@
 # Don't change this! Version used to track needed updates.
 version = 0
-enderPearlTrail = false
-snowballTrailDensity = 0.2
+chickenFeathers = true
+parrotFeathers = true
+snowGolemSnowflakes = true
 allayMagicDensity = 0.2
 vexMagicDensity = 0.2
 sheepShearFluff = false
 improvedDragonFireballTrail = false
+dragonsBreathClouds = true
 commandBlockMinecartParticles = "OFF"
 endCrystalParticles = false
-minecartLandingSparks = false
+minecartSparksDisplayType = "DEFAULT"
+minecartSparksDensity = 0.5
 slimeTrails = false
 magmaCubeTrails = false
 replaceSlimeSquishParticles = false
+replaceOozingEffectParticles = true
 replaceSpellCasterParticles = false
 ironGolemCrackParticles = false
 spectralArrowParticles = false
 wardenDeathSoulParticles = false
-xpBottleParticlesDisplayType = "DEFAULT"
-xpBottleParticlesDensity = 10
-
-[attacked]
-chickenFeathers = false
-parrotFeathers = false
-snowGolemSnowflakes = false
+freezingSnowFlakes = true
+featherTicklingPandas = true
+improvedPandaSneezes = true
+villagerWorkAtWorkstationParticles = true
+improvedBrownMooshroomFeedingEffects = true
+improvedMooshroomShearingEffects = true
+replaceBlazeSmoke = true
+animalFeedingParticles = true
+animalFeedingSoundVolume = 1.0
+underwaterEntityPoofBubbles = true
+improvedWetWolfShakeEffects = true
+improvedVillagerSweatingEffects = true
 
 [sleeping]
 playerSnoreChance = 1.0
@@ -39,8 +48,15 @@ displaySleepingZsOnlyWhenSnoring = false
 adjustNameTagWhenSleeping = true
 
 [humanoids]
-drowningBubbles = "DEFAULT"
+drowningBubblesDisplayType = "DEFAULT"
 drowningBubblesDensity = 10
+drowningBubbleAlpha = 1.0
+forceDrowningBubblesToColumn = false
+potionRingsDisplayType = "DEFAULT"
+potionRingsParticleType = "BOTH"
+potionRingsScale = 1.0
+potionRingsAlpha = 1.0
+NPCsHavePotionRings = true
 
 [humanoids.frostyBreath]
 displayType = "DEFAULT"
@@ -50,39 +66,53 @@ seasons = "DEFAULT"
 additionalBiomes = [  ]
 
 [humanoids.player]
+enableBreathingEffectsInCreative = true
 stomachGrowlingThreshold = 6
 stomachGrowlingVolume = 1.0
+stomachGrowlingWaitTime = 15
 heartBeatingThreshold = 6
 heartbeatVolume = 1.0
+heartBeatingWaitTime = 3
 
 [dustClouds]
 scale = 2.0
 alpha = 1.0
-playerFell = true
-playerRunning = true
-playerRunningRequiresSpeed = false
-mobFell = true
-mobRunning = true
-landMaceAttack = true
 preventWhenRaining = false
+flyIntoWall = true
+lessViewBlocking = false
+playerFell = true
+mobFell = true
+landMaceAttack = true
+playerRunning = true
+mobRunning = true
+playerRunningRequiresSpeed = false
 
 [burning]
 smoke = "DEFAULT"
 flames = false
 sparks = false
 sounds = false
-
-[itemRarity]
-particlesDisplayType = "ON"
-particleColor = "NAME_COLOR"
-mixedColorName = true
-particleMaxHeight = 1.0
-particleMaxSpeed = 1.0
-particleDensity = 1.0
+extinguishSteam = true
 
 [explosives]
 tntUpdateSmoke = false
-tntFlames = false
+tntFlamesDensity = 1
 tntSparks = false
 creeperSmoke = "UPDATED"
 creeperSparks = false
+
+[splashes]
+splashEffects = true
+splashRipples = true
+splashDroplets = true
+splashBubbles = true
+explosionsCauseSplashes = true
+splashOverlayTint = 0.2
+splashOverlayAlpha = 0.8
+splashVelocityThreshold = 0.35
+entityBlocklist = [  ]
+secondarySplash = true
+secondarySplashRipples = false
+secondarySplashVelocityThreshold = 0.3
+lavaSplashes = true
+lavaSplashRipples = true

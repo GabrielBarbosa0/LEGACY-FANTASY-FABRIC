@@ -1,0 +1,286 @@
+{
+  "effects": {
+    "witcher_rpg:aard_intensity": {
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:aard_intensity",
+          "value": 1.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:axii_intensity": {
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:axii_intensity",
+          "value": 1.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:igni_intensity": {
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:igni_intensity",
+          "value": 1.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:quen_intensity": {
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:quen_intensity",
+          "value": 1.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:yrden_intensity": {
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:yrden_intensity",
+          "value": 1.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:sign_intensity": {
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:sign_intensity",
+          "value": 1.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:adrenaline_burst": {
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:adrenaline_modifier",
+          "value": 0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:adrenaline_gain": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.attack_damage",
+          "value": 0.025,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "witcher_rpg:sign_intensity",
+          "value": 0.025,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:aerondight_charge": {
+      "attributes": [
+        {
+          "attribute": "spell_power:critical_chance",
+          "value": 0.01,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "spell_power:critical_damage",
+          "value": 0.02,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "witcher_rpg:sign_intensity",
+          "value": 0.01,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:axii": {
+      "attributes": [
+        {
+          "attribute": "spell_engine:damage_taken",
+          "value": 0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:axii_puppet": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.attack_damage",
+          "value": 0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:battle_trance": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.3,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:bear_school_medallion": {
+      "attributes": [
+        {
+          "attribute": "spell_engine:damage_taken",
+          "value": -0.2,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:quen_active": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.max_absorption",
+          "value": 8.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:quen_shield": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.max_absorption",
+          "value": 4.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:yrden_circle": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": -0.1,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:yrden_glyph": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": -0.1,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:wolf_school_medallion": {
+      "attributes": []
+    },
+    "witcher_rpg:azure_wrath": {
+      "attributes": [
+        {
+          "attribute": "spell_engine:healing_taken",
+          "value": -1.0,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:iris_charge": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.attack_damage",
+          "value": 0.025,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "more_rpg_classes:lifesteal_modifier",
+          "value": 0.01,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:rose_of_remembrance": {
+      "attributes": []
+    },
+    "witcher_rpg:sunstone": {
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:sign_intensity",
+          "value": 0.2,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:yrden_griffin_master": {
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:sign_intensity",
+          "value": 0.5,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "spell_engine:damage_taken",
+          "value": -0.2,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:feline_injury_master": {
+      "attributes": [
+        {
+          "attribute": "spell_engine:damage_taken",
+          "value": 0.2,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.2,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:axii_lethargy": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": -0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:quen_explosive": {
+      "attributes": []
+    },
+    "witcher_rpg:quen_discharge": {
+      "attributes": []
+    },
+    "witcher_rpg:muscle_memory": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.attack_speed",
+          "value": 0.05,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:strength_training": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.attack_damage",
+          "value": 0.025,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:witcher_reflexes": {
+      "attributes": []
+    },
+    "witcher_rpg:arrow_deflection": {
+      "attributes": []
+    },
+    "witcher_rpg:counterattack": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.attack_damage",
+          "value": 0.3,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    }
+  }
+}

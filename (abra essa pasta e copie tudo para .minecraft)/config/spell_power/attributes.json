@@ -1,5 +1,4 @@
 {
-  "attributes_container_injection_scope": "LIVING_ENTITY",
   "base_spell_critical_chance_percentage": 5.0,
   "base_spell_critical_damage_percentage": 50.0,
   "spell_power_effect": {
@@ -16,5 +15,9 @@
       "bonus_per_stack": 0.05
     }
   },
-  "resistance_reduction_cap": 0.75
+  "resistance_curve": "HYPERBOLIC",
+  "resistance_multiplier": 1.0,
+  "resistance_tuning_constant": 20.0,
+  "resistance_reduction_cap": 0.75,
+  "register_potions": false
 }

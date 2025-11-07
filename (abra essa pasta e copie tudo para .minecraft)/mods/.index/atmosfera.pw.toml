@@ -1,0 +1,16 @@
+filename = 'atmosfera-2.4.0+mc1.21.1.jar'
+name = 'Atmosfera'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '06a30ae86a5749e33f632712d9f0563948781ad6f4e40fe05fa659dfe7e4455e2f78ace9b65d48ca2fa32c750199282a271263a61dac2563003d4452d267174e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/28G1xpgF/versions/8eugi0IN/atmosfera-2.4.0%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = '28G1xpgF'
+version = '8eugi0IN'

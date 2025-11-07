@@ -1,0 +1,10 @@
+{
+  "spell_book": {
+    "content": "MAGIC",
+    "is_proxy": false,
+    "pool": "",
+    "slot": "",
+    "max_spell_count": 0,
+    "spell_ids": []
+  }
+}

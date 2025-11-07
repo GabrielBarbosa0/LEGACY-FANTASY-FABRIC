@@ -1,0 +1,95 @@
+{
+  "effects": {
+    "arsenal:stun": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.jump_strength",
+          "value": 0.0,
+          "operation": "ADD_MULTIPLIED_TOTAL"
+        }
+      ]
+    },
+    "arsenal:frostbite": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": -0.25,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "minecraft:generic.attack_speed",
+          "value": -0.25,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "arsenal:guarding": {
+      "attributes": [
+        {
+          "attribute": "spell_engine:damage_taken",
+          "value": -0.3,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "arsenal:sundering": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.armor",
+          "value": -0.3,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "arsenal:rampaging": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.attack_damage",
+          "value": 0.05,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "arsenal:focusing": {
+      "attributes": [
+        {
+          "attribute": "ranged_weapon:damage",
+          "value": 0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "arsenal:unyielding": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.knockback_resistance",
+          "value": 3.0,
+          "operation": "ADD_VALUE"
+        },
+        {
+          "attribute": "minecraft:generic.armor_toughness",
+          "value": 0.5,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "arsenal:surging": {
+      "attributes": [
+        {
+          "attribute": "spell_power:critical_chance",
+          "value": 0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "arsenal:absorption": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.max_absorption",
+          "value": 2.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    }
+  }
+}

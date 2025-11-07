@@ -1,0 +1,16 @@
+filename = 'sodiumdynamiclights-fabric-1.0.10-1.21.1.jar'
+name = 'Sodium Dynamic Lights'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '395affdb6d2484c071a2905ad247c8c5b13a4fa82f59e1a4c92a043409958f29fab4b4274a2e4aa6d9b55c6fecb4070d4595627e6d309da90bf83ba665fdc84e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PxQSWIcD/versions/BsbJhy7W/sodiumdynamiclights-fabric-1.0.10-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'PxQSWIcD'
+version = 'BsbJhy7W'

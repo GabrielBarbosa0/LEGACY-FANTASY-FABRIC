@@ -23,13 +23,16 @@
     "net.minecraft.class_7744": true,
     "net.jobsaddon.screen.JobScreen": true,
     "net.rewardz.screen.RewardsScreen": true,
-    "com.tom.storagemod.screen.CraftingTerminalScreen": true
+    "com.tom.storagemod.screen.CraftingTerminalScreen": true,
+    "net.conczin.immersive_paintings.client.gui.ImmersivePaintingScreen": true,
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": true
   },
   "hideBackground": {
     "folk.sisby.antique_atlas.gui.AtlasScreen": true,
     "com.moulberry.axiom.screen.EditMarkerScreen": true,
     "com.natamus.starterkit_common_fabric.inventory.StarterKitInventoryScreen": true,
     "cn.leolezury.eternalstarlight.common.client.gui.screen.BookScreen": true,
-    "com.supermartijn642.core.gui.WidgetScreen": true
+    "com.supermartijn642.core.gui.WidgetScreen": true,
+    "net.conczin.immersive_paintings.client.gui.ImmersivePaintingScreen": true
   }
 }

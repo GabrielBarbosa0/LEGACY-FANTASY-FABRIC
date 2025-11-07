@@ -1,0 +1,34 @@
+{
+  "ranged_weapons": {
+    "arsenal:unique_longbow_1": {
+      "damage": 13.5,
+      "pull_time_bonus": 0.5,
+      "velocity_bonus": 0.75
+    },
+    "arsenal:unique_longbow_2": {
+      "damage": 13.5,
+      "pull_time_bonus": 0.5,
+      "velocity_bonus": 0.75
+    },
+    "arsenal:unique_longbow_sw": {
+      "damage": 13.5,
+      "pull_time_bonus": 0.5,
+      "velocity_bonus": 0.75
+    },
+    "arsenal:unique_heavy_crossbow_1": {
+      "damage": 17.0,
+      "pull_time_bonus": 0.75,
+      "velocity_bonus": 0.5
+    },
+    "arsenal:unique_heavy_crossbow_2": {
+      "damage": 17.0,
+      "pull_time_bonus": 0.75,
+      "velocity_bonus": 0.5
+    },
+    "arsenal:unique_heavy_crossbow_sw": {
+      "damage": 17.0,
+      "pull_time_bonus": 0.75,
+      "velocity_bonus": 0.5
+    }
+  }
+}

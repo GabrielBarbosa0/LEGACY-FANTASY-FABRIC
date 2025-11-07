@@ -1,0 +1,16 @@
+filename = 'paladins-fabric-2.6.3+1.21.1.jar'
+name = 'Paladins & Priests (RPG Series)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7ea1e668b96357f1f264f0e9af0959cc013a42251c169fcea07b8ccf71ea23497622edc48b137a8cd8c95e0c540dafc63863a2f274aa8a28e06db0a68c99213f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FxXkHaLe/versions/uheWk6th/paladins-fabric-2.6.3%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'FxXkHaLe'
+version = 'uheWk6th'

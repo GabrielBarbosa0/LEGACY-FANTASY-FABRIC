@@ -1,0 +1,98 @@
+{
+  "school_weaknesses": {
+    "spell_power:fire": [
+      {
+        "impact_type": "DAMAGE",
+        "weakness": {
+          "all_required": false,
+          "conditions": [
+            {
+              "health_percent_above": 0.0,
+              "health_percent_below": 1.0,
+              "entity_type": "#spell_engine:vulnerability/weak_to_fire"
+            }
+          ],
+          "execute": "PASS",
+          "modifier": {
+            "power_multiplier": 0.0,
+            "critical_chance_bonus": 0.3,
+            "critical_damage_bonus": 0.0
+          }
+        }
+      }
+    ],
+    "spell_power:frost": [
+      {
+        "weakness": {
+          "all_required": false,
+          "conditions": [
+            {
+              "health_percent_above": 0.0,
+              "health_percent_below": 1.0,
+              "entity_type": "#spell_engine:vulnerability/weak_to_frost"
+            }
+          ],
+          "execute": "PASS",
+          "modifier": {
+            "power_multiplier": 0.3,
+            "critical_chance_bonus": 0.0,
+            "critical_damage_bonus": 0.0
+          }
+        }
+      },
+      {
+        "weakness": {
+          "all_required": false,
+          "conditions": [
+            {
+              "health_percent_above": 0.0,
+              "health_percent_below": 1.0,
+              "entity_type": "#spell_engine:vulnerability/resistant_to_frost"
+            }
+          ],
+          "execute": "PASS",
+          "modifier": {
+            "power_multiplier": -0.3,
+            "critical_chance_bonus": 0.0,
+            "critical_damage_bonus": 0.0
+          }
+        }
+      }
+    ],
+    "spell_power:healing": [
+      {
+        "impact_type": "HEAL",
+        "weakness": {
+          "all_required": false,
+          "conditions": [
+            {
+              "health_percent_above": 0.0,
+              "health_percent_below": 1.0,
+              "entity_type": "#spell_engine:mechanical"
+            }
+          ],
+          "execute": "DENY"
+        }
+      },
+      {
+        "impact_type": "DAMAGE",
+        "weakness": {
+          "all_required": false,
+          "conditions": [
+            {
+              "health_percent_above": 0.0,
+              "health_percent_below": 1.0,
+              "entity_type": "#spell_engine:vulnerability/weak_to_healing"
+            }
+          ],
+          "execute": "PASS",
+          "modifier": {
+            "power_multiplier": 0.0,
+            "critical_chance_bonus": 1.0,
+            "critical_damage_bonus": 0.0
+          }
+        }
+      }
+    ]
+  }
+}

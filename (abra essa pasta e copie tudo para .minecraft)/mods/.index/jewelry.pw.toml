@@ -1,0 +1,16 @@
+filename = 'jewelry-fabric-2.2.0+1.21.1.jar'
+name = 'Jewelry (RPG Series)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3ec8874f571eb73fa911d37c29ed451073bb3bff95bfed3c3dc4e7cf99a9bdced34c3970b5e070c41f77bf0f8715aa2197940b7324fdbe6b8ce7193636f940f2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sNJAIjUm/versions/Gt7NdeGh/jewelry-fabric-2.2.0%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'sNJAIjUm'
+version = 'Gt7NdeGh'

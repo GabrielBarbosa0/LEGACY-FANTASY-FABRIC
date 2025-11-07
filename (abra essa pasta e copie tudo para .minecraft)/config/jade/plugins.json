@@ -67,5 +67,9 @@
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
+  },
+  "iceandfire": {
+    "multipart": true,
+    "dragon": true
   }
 }

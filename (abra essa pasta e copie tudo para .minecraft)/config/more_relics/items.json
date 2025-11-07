@@ -1,0 +1,148 @@
+{
+  "entries": {
+    "more_relics:jewel_figurine_earth": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "spell_power:earth",
+          "value": 0.05,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "more_relics:jewel_figurine_air": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "spell_power:air",
+          "value": 0.05,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "more_relics:jewel_figurine_water": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "spell_power:water",
+          "value": 0.05,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "more_relics:jewel_figurine_rage": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "more_rpg_classes:rage_modifier",
+          "value": 0.05,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "more_relics:lesser_proc_air_lightning": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:lesser_proc_earth_fire": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:lesser_proc_water_frost": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:lesser_use_rage": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:medium_use_air_power": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:medium_use_earth_power": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:medium_use_water_power": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:medium_proc_rage": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:medium_proc_lifesteal": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:greater_frozen_heart": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:greater_proc_rage": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:greater_kircheis_shard": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:greater_madreds_bloodrazor": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:greater_liandrys_torment": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:greater_sunfire_cape": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:superior_mejais_soulstealer": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:superior_zhonyas_hourglass": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:superior_shurelyas_battlesong": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:superior_mikaels_blessing": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "more_relics:superior_guardian_angel": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    }
+  }
+}

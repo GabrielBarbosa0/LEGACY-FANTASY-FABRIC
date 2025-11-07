@@ -1,0 +1,273 @@
+{
+  "entries": {
+    "witcher_rpg:bear_school_medallion": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.max_health",
+          "value": 4.0,
+          "operation": "ADD_VALUE"
+        },
+        {
+          "attribute": "minecraft:generic.attack_damage",
+          "value": 0.12,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "witcher_rpg:adrenaline_modifier",
+          "value": 0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:cat_school_medallion": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.attack_speed",
+          "value": 0.05,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "minecraft:generic.attack_damage",
+          "value": 0.12,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "witcher_rpg:adrenaline_modifier",
+          "value": 0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:griffin_school_medallion": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:sign_intensity",
+          "value": 0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "spell_power:haste",
+          "value": 0.05,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "witcher_rpg:adrenaline_modifier",
+          "value": 0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:wolf_school_medallion": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:sign_intensity",
+          "value": 0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "minecraft:generic.attack_damage",
+          "value": 0.12,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "witcher_rpg:adrenaline_modifier",
+          "value": 0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "witcher_rpg:lesser_aard_glyph": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:aard_intensity",
+          "value": 1.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:lesser_axii_glyph": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:axii_intensity",
+          "value": 1.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:lesser_igni_glyph": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:igni_intensity",
+          "value": 1.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:lesser_quen_glyph": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:quen_intensity",
+          "value": 1.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:lesser_yrden_glyph": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:yrden_intensity",
+          "value": 1.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:aard_glyph": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:aard_intensity",
+          "value": 1.5,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:axii_glyph": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:axii_intensity",
+          "value": 1.5,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:igni_glyph": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:igni_intensity",
+          "value": 1.5,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:quen_glyph": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:quen_intensity",
+          "value": 1.5,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:yrden_glyph": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:yrden_intensity",
+          "value": 1.5,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:greater_aard_glyph": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:aard_intensity",
+          "value": 2.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:greater_axii_glyph": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:axii_intensity",
+          "value": 2.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:greater_igni_glyph": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:igni_intensity",
+          "value": 2.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:greater_quen_glyph": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:quen_intensity",
+          "value": 2.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:greater_yrden_glyph": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": [
+        {
+          "attribute": "witcher_rpg:yrden_intensity",
+          "value": 2.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "witcher_rpg:pure_silver": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "witcher_rpg:rose_of_remembrance": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "witcher_rpg:crystal_skull": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    },
+    "witcher_rpg:sunstone": {
+      "enabled": true,
+      "durability": 0,
+      "attributes": []
+    }
+  }
+}

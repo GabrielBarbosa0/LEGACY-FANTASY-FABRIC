@@ -1,0 +1,16 @@
+filename = 'spell_power-fabric-1.4.3+1.21.1.jar'
+name = 'Spell Power Attributes'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd95bd3968193c4c50c9fe8d94257c740dc99e97a83b7fca0b70100f28e19f69a27d1afe57ef6fa8debaa90cc61ba222da2200b026a0f74e30721fd551be6f322'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8ooWzSQP/versions/oS37FeSC/spell_power-fabric-1.4.3%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = '8ooWzSQP'
+version = 'oS37FeSC'

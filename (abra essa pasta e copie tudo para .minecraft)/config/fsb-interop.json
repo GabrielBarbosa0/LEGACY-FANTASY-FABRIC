@@ -1,6 +1,6 @@
 {
   "mode": "NATIVE",
-  "interoperability": true,
+  "interoperability": false,
   "debug_mode": true,
   "prefer_f_s_b_native": true,
   "process_opti_fine": true,

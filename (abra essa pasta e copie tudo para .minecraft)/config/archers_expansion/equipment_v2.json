@@ -1,0 +1,489 @@
+{
+  "weapons": {},
+  "armor_sets": {
+    "tundra_hunter": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.06,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_power:frost",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.06,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_power:frost",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.06,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_power:frost",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.06,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_power:frost",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      }
+    },
+    "war_archer": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 5,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "deadeye": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_engine:evasion_chance",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_engine:evasion_chance",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_engine:evasion_chance",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_engine:evasion_chance",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "netherite_tundra_hunter": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.08,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_power:frost",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.08,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_power:frost",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.08,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_power:frost",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.08,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_power:frost",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      }
+    },
+    "netherite_war_archer": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.12,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:velocity",
+            "value": 0.25,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 5,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.12,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:velocity",
+            "value": 0.25,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.12,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:velocity",
+            "value": 0.25,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.12,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:velocity",
+            "value": 0.25,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "netherite_deadeye": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.07,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.07,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_engine:evasion_chance",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.07,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.07,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_engine:evasion_chance",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.07,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.07,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_engine:evasion_chance",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.07,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.07,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_engine:evasion_chance",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    }
+  }
+}

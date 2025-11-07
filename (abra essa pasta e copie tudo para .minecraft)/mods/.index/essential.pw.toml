@@ -1,0 +1,16 @@
+filename = 'Essential_1-3-10_fabric_1-21-1.jar'
+name = 'Essential Mod'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '71bc3e5788c6cad9ad31606c3ae09301c5cc1ce51a155ee39c4d04b6b10e81239809e9976796172a7415ba7de42b3fe220b65752af97240edd6fe7c93ce612dc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/k2ZPuTBm/versions/rhjNbgoM/Essential_1-3-10_fabric_1-21-1.jar'
+
+[update.modrinth]
+mod-id = 'k2ZPuTBm'
+version = 'rhjNbgoM'

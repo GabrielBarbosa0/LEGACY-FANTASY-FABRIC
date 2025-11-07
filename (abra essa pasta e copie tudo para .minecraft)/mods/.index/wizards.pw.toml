@@ -1,0 +1,16 @@
+filename = 'wizards-fabric-2.6.3+1.21.1.jar'
+name = 'Wizards (RPG Series)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '45812cf87c56aa93658efbaea66132c593461828f37eafef367d1e37909fc1e1f8b8144eeaa09ad7d32a0e60287c80ce51d6b2afd5ed8eb679f5c8575cb8d10b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NkGaQMDA/versions/oMVWJ2en/wizards-fabric-2.6.3%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'NkGaQMDA'
+version = 'oMVWJ2en'

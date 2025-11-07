@@ -1,0 +1,16 @@
+filename = 'structure_pool_api-fabric-1.2.1+1.21.1.jar'
+name = 'Structure Pool API'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5db479ad64411a36ab8a4be746625cbd67189a9fb56a5853a9715159afe6cd1f8db5216018330f395211b491ae3cba1da80aa1a66f5904aa17bf18518f71fd3e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LrYZi08Q/versions/Y6aBoKEl/structure_pool_api-fabric-1.2.1%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'LrYZi08Q'
+version = 'Y6aBoKEl'

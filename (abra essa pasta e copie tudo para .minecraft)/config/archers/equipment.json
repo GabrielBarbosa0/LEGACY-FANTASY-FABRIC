@@ -1,0 +1,250 @@
+{
+  "ranged_weapons": {
+    "archers:composite_longbow": {
+      "damage": 8.0,
+      "pull_time_bonus": 0.5,
+      "velocity_bonus": 0.75
+    },
+    "archers:mechanic_shortbow": {
+      "damage": 8.0,
+      "pull_time_bonus": -0.19999999,
+      "velocity_bonus": 0.0
+    },
+    "archers:royal_longbow": {
+      "damage": 10.0,
+      "pull_time_bonus": 0.5,
+      "velocity_bonus": 0.75
+    },
+    "archers:netherite_shortbow": {
+      "damage": 9.0,
+      "pull_time_bonus": -0.19999999,
+      "velocity_bonus": 0.0
+    },
+    "archers:netherite_longbow": {
+      "damage": 12.0,
+      "pull_time_bonus": 0.5,
+      "velocity_bonus": 0.75
+    },
+    "archers:rapid_crossbow": {
+      "damage": 8.5,
+      "pull_time_bonus": 0.0,
+      "velocity_bonus": 0.0
+    },
+    "archers:heavy_crossbow": {
+      "damage": 13.0,
+      "pull_time_bonus": 0.75,
+      "velocity_bonus": 0.5
+    },
+    "archers:netherite_rapid_crossbow": {
+      "damage": 9.5,
+      "pull_time_bonus": 0.0,
+      "velocity_bonus": 0.0
+    },
+    "archers:netherite_heavy_crossbow": {
+      "damage": 15.0,
+      "pull_time_bonus": 0.75,
+      "velocity_bonus": 0.5
+    }
+  },
+  "melee_weapons": {
+    "flint_spear": {
+      "attack_damage": 4.0,
+      "attack_speed": -2.6,
+      "attributes": []
+    },
+    "iron_spear": {
+      "attack_damage": 5.0,
+      "attack_speed": -2.6,
+      "attributes": []
+    },
+    "golden_spear": {
+      "attack_damage": 3.0,
+      "attack_speed": -2.6,
+      "attributes": []
+    },
+    "diamond_spear": {
+      "attack_damage": 6.0,
+      "attack_speed": -2.6,
+      "attributes": []
+    },
+    "netherite_spear": {
+      "attack_damage": 7.0,
+      "attack_speed": -2.6,
+      "attributes": []
+    }
+  },
+  "armor_sets": {
+    "archer_armor": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "ranger_armor": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.08,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.08,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.08,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.08,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "netherite_ranger_armor": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.1,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    }
+  }
+}

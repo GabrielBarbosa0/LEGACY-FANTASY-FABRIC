@@ -1,0 +1,30 @@
+{
+  "effects": {
+    "archers:hunters_mark_stash": {
+      "attributes": []
+    },
+    "archers:hunters_mark": {
+      "attributes": [
+        {
+          "attribute": "spell_engine:damage_taken",
+          "value": 0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "archers:entangling_roots": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": -0.5,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "minecraft:generic.jump_strength",
+          "value": -0.5,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    }
+  }
+}

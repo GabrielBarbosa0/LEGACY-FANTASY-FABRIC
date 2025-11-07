@@ -1,0 +1,320 @@
+{
+  "weapons": {
+    "flint_berserker_axe": {
+      "attack_damage": 7.0,
+      "attack_speed": -3.1,
+      "attributes": []
+    },
+    "stone_berserker_axe": {
+      "attack_damage": 9.0,
+      "attack_speed": -3.1,
+      "attributes": [
+        {
+          "attribute": "more_rpg_classes:rage_modifier",
+          "value": 0.01,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "iron_berserker_axe": {
+      "attack_damage": 9.0,
+      "attack_speed": -3.1,
+      "attributes": [
+        {
+          "attribute": "more_rpg_classes:rage_modifier",
+          "value": 0.02,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "golden_berserker_axe": {
+      "attack_damage": 7.0,
+      "attack_speed": -3.1,
+      "attributes": [
+        {
+          "attribute": "more_rpg_classes:rage_modifier",
+          "value": 0.02,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "diamond_berserker_axe": {
+      "attack_damage": 10.5,
+      "attack_speed": -3.1,
+      "attributes": [
+        {
+          "attribute": "more_rpg_classes:rage_modifier",
+          "value": 0.035,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "netherite_berserker_axe": {
+      "attack_damage": 12.0,
+      "attack_speed": -3.1,
+      "attributes": [
+        {
+          "attribute": "more_rpg_classes:rage_modifier",
+          "value": 0.05,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "unique_berserker_axe_1": {
+      "attack_damage": 15.0,
+      "attack_speed": -3.1,
+      "attributes": [
+        {
+          "attribute": "more_rpg_classes:rage_modifier",
+          "value": 0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "unique_sword_1": {
+      "attack_damage": 8.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "attribute": "more_rpg_classes:rage_modifier",
+          "value": 0.05,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    }
+  },
+  "armor_sets": {
+    "wildling": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.attack_speed",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "more_rpg_classes:rage_modifier",
+            "value": 0.025,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.attack_speed",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "more_rpg_classes:rage_modifier",
+            "value": 0.025,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.attack_speed",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "more_rpg_classes:rage_modifier",
+            "value": 0.025,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.attack_speed",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "more_rpg_classes:rage_modifier",
+            "value": 0.025,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "northling": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.attack_speed",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "more_rpg_classes:rage_modifier",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.attack_speed",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "more_rpg_classes:rage_modifier",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.attack_speed",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "more_rpg_classes:rage_modifier",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.attack_speed",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "more_rpg_classes:rage_modifier",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "netherite_northling": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.attack_speed",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "more_rpg_classes:rage_modifier",
+            "value": 0.075,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.attack_speed",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "more_rpg_classes:rage_modifier",
+            "value": 0.075,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.attack_speed",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "more_rpg_classes:rage_modifier",
+            "value": 0.075,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.attack_speed",
+            "value": 0.02,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "more_rpg_classes:rage_modifier",
+            "value": 0.075,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    }
+  }
+}

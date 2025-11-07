@@ -1,0 +1,55 @@
+{
+  "effects": {
+    "berserker_rpg:rage": {
+      "attributes": [
+        {
+          "attribute": "more_rpg_classes:rage_modifier",
+          "value": 0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "minecraft:generic.attack_speed",
+          "value": 0.025,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "berserker_rpg:blood_sacrifice": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.max_absorption",
+          "value": 4.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "berserker_rpg:outrage": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.attack_speed",
+          "value": 0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "minecraft:generic.attack_damage",
+          "value": 0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "berserker_rpg:carve": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.armor",
+          "value": -0.1,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "spell_engine:damage_taken",
+          "value": -0.05,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "ignore_items_required_mods": false,
+  "bloody_strike_self_damage": 0.7,
+  "blood_reckoning_absoprtion_to_heal": 0.4,
+  "blood_reckoning_base_heal": 4.0
+}
